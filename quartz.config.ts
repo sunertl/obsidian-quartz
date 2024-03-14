@@ -17,13 +17,13 @@ const config: QuartzConfig = {
     locale: "en-US",
     baseUrl: "obsidian-quartz-ajt.pages.dev",
     ignorePatterns: ["private", "templates", ".obsidian", "Universe/Categories", "Universe/Meta/Readwise", "Universe/Meta/Templates"],
-    defaultDateType: "created",
+    defaultDateType: "published",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Roboto",
-        body: "Roboto",
+        header: "Nunito",
+        body: "Nunito",
         code: "IBM Plex Mono",
       },
       colors: {
