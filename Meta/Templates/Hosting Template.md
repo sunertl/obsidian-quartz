@@ -1,6 +1,6 @@
 ---
 category:
-  - "[[Hosting]]"
+  - "[[hosting]]"
 start: 
 end: 
 loc: 

@@ -7,7 +7,7 @@ length: 566 min
 
 category:: [[Movies]]
 director:: [[Claude Lanzmann]]
-genre:: [[Documentary]], [[History]], [[War]]
+genre:: [[Documentary]], [[node_modules/bytes/History]], [[War]]
 year:: 1985
 cast:: [[Simon Srebnik]], [[Michael Podchlebnik]], [[Motke Zaïdl]]
 plot:: Claude Lanzmann's epic documentary recounts the story of the Holocaust through interviews with witnesses - perpetrators as well as survivors.

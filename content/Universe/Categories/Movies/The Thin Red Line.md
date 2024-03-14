@@ -7,7 +7,7 @@ length: 170 min
 
 category:: [[Movies]]
 director:: [[Terrence Malick]]
-genre:: [[Drama]], [[History]], [[War]]
+genre:: [[Drama]], [[node_modules/bytes/History]], [[War]]
 year:: 1998
 cast:: [[Jim Caviezel]], [[Sean Penn]], [[Nick Nolte]]
 plot:: Adaptation of James Jones' autobiographical 1962 novel, focusing on the conflict at Guadalcanal during the second World War.

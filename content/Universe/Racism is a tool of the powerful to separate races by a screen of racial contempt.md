@@ -7,7 +7,7 @@ tags:
   - quotes
   - notes/highlight
 topics:
-  - "[[History]]"
+  - "[[content/Universe/Categories/Philosophy/History]]"
   - "[[Racism]]"
 related:
   - "[[Divide Et Impera]]"

@@ -7,7 +7,7 @@ length: 163 min
 
 category:: [[Movies]]
 director:: [[Bernardo Bertolucci]]
-genre:: [[Biography]], [[Drama]], [[History]]
+genre:: [[Biography]], [[Drama]], [[node_modules/bytes/History]]
 year:: 1987
 cast:: [[John Lone]], [[Joan Chen]], [[Peter O'Toole]]
 plot:: Dramatization of China's last emperor, Puyi.

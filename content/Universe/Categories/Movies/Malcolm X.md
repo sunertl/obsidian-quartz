@@ -7,7 +7,7 @@ cover: https://m.media-amazon.com/images/M/MV5BZDkzOTFmMTUtMmI2OS00MDE4LTg5YTUtO
 genre:
   - "[[Biography]]"
   - "[[Drama]]"
-  - "[[History]]"
+  - "[[node_modules/bytes/History]]"
 director:
   - "[[Spike Lee]]"
 cast:

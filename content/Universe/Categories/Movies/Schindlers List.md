@@ -7,7 +7,7 @@ length: 195 min
 
 category:: [[Movies]]
 director:: [[Steven Spielberg]]
-genre:: [[Biography]], [[Drama]], [[History]]
+genre:: [[Biography]], [[Drama]], [[node_modules/bytes/History]]
 year:: 1993
 cast:: [[Liam Neeson]], [[Ralph Fiennes]], [[Ben Kingsley]]
 plot:: In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.

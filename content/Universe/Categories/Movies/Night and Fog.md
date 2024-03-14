@@ -7,7 +7,7 @@ length: 32 min
 
 category:: [[Movies]]
 director:: [[Alain Resnais]]
-genre:: [[Documentary]], [[Short]], [[History]]
+genre:: [[Documentary]], [[Short]], [[node_modules/bytes/History]]
 year:: 1956
 cast:: [[Michel Bouquet]], [[Reinhard Heydrich]], [[Heinrich Himmler]]
 plot:: The history of Nazi Germany's death camps of the Final Solution and the hellish world of dehumanization and death contained inside.

@@ -1,4 +1,4 @@
-[[Philosophy]]
+[[philosophy]]
  
 This HON captures my readings related to political philosophy. 
 

@@ -7,7 +7,7 @@ length: 157 min
 
 category:: [[Movies]]
 director:: [[Ang Lee]]
-genre:: [[Drama]], [[History]], [[Romance]]
+genre:: [[Drama]], [[node_modules/bytes/History]], [[Romance]]
 year:: 2007
 cast:: [[Tony Leung Chiu-wai]], [[Tang Wei]], [[Joan Chen]]
 plot:: During World War II era, a young woman, Wang Jiazhi, gets swept up in a dangerous game of emotional intrigue with a powerful political figure, Mr. Yee.

@@ -1,4 +1,4 @@
-[[Philosophy]]
+[[philosophy]]
 #philosophy/people
 
 # Wiki
