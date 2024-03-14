@@ -1,0 +1,15 @@
+# Why Writing by Hand Is Better for Memory and Learning
+
+![rw-book-cover](https://static.scientificamerican.com/sciam/assets/Image/newsletter/salogo.png)
+
+## Metadata
+- Author: [[Charlotte Hu]]
+- Full Title: Why Writing by Hand Is Better for Memory and Learning
+- Category: #articles
+- Summary: Writing by hand has positive effects on learning and memory, particularly in young children, despite the prevalence of digital technology in education. Research shows that handwriting notes leads to higher brain activity across various regions responsible for movement, vision, sensory processing, and memory. Handwriting requires active engagement with information, leading to better comprehension and retention compared to typing. The physical act of writing strengthens neural connections, boosts memory, and enhances learning outcomes, especially for children who benefit from the unique brain engagement that handwriting provides.
+- URL: https://www.scientificamerican.com/article/why-writing-by-hand-is-better-for-memory-and-learning/
+
+## Highlights
+- That work suggested that people taking notes by computer were typing without thinking, says [van der Meer](https://www.ntnu.edu/employees/audrey.meer), a professor of neuropsychology at NTNU. “It’s very tempting to type down everything that the lecturer is saying,” she says. “It kind of goes in through your ears and comes out through your fingertips, but you don’t process the incoming information.” But when taking notes by hand, it’s often impossible to write everything down; students have to actively pay attention to the incoming information and process it—prioritize it, consolidate it and try to relate it to things they’ve learned before. This conscious action of building onto existing knowledge can make it easier to [stay engaged and grasp new concepts](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.591203/full). ([View Highlight](https://read.readwise.io/read/01hrrcvtrtcskpbgspjf43c064))
+- When students wrote the words by hand, the sensors picked up widespread connectivity across many brain regions. Typing, however, led to minimal activity, if any, in the same areas. Handwriting activated connection patterns spanning visual regions, regions that receive and process sensory information and the motor cortex. The latter handles body movement and sensorimotor integration, which helps the brain use environmental inputs to inform a person’s next action. ([View Highlight](https://read.readwise.io/read/01hrrcyd4kc7zpzpznxkwt8g9t))
+- As you’re drawing a letter or writing a word, you’re taking this perceptual understanding of something and using your motor system to create it.” That creation is then fed back into the visual system, where it’s processed again—strengthening the connection between an action and the images or words associated with it. It’s similar to imagining something and then creating it: when you materialize something from your imagination (by writing it, drawing it or building it), this reinforces the imagined concept and helps it stick in your memory. ([View Highlight](https://read.readwise.io/read/01hrrd2hkga8p1dbq8wmer4znm))
