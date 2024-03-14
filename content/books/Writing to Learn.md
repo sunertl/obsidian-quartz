@@ -23,7 +23,7 @@ tags:
 - **Date Read**:
 
 
-![alt text|180]`(image URL)`
+![alt text|180](https://m.media-amazon.com/images/I/71XxfVv6rlL._SL1500_.jpg)
 
 ## Synopsis
 
