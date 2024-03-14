@@ -16,8 +16,6 @@ last: 2023-02-24
 via: ""
 tags:
   - books
-  - movies
-  - to-read
 draft: true
 ---
 
