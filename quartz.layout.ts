@@ -1,3 +1,4 @@
+import { filter } from "d3"
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
@@ -25,7 +26,13 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.Explorer({
+      title: "Explorer",
+      folderClickBehavior: "collapse",
+      folderDefaultState: "collapsed",
+      useSavedState: true,
+      order: ["filter", "map", "sort"],
+    }))
   ],
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
