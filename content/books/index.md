@@ -3,7 +3,8 @@ tags:
   - categories
 title: bookshelf
 ---
-![alt text|400](04A8893B-73F7-486E-B4E3-238403088C92_1_201_a.jpeg)
+
+![[04A8893B-73F7-486E-B4E3-238403088C92_1_201_a.jpeg\|300x300]]
 
 Below is an (almost) complete list of books I have read, am planning to read or am currently reading. 
 
