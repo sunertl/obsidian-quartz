@@ -19,7 +19,7 @@ tags:
 - **Status**: #state/read 
 - **Date Read**: 2024-03-14
 
-![alt text|180](https://m.media-amazon.com/images/I/71XxfVv6rlL._SL1500_.jpg)
+![[writingtolearn.jpg]]
 
 ## Synopsis
 
