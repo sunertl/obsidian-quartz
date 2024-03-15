@@ -1,6 +1,6 @@
 [[EC2 Instance Purchasing Options]]
 Related to [[On-Demand Instances]]
-#compsci/cloud/aws/instance  
+#CS/cloud/aws/instance  
 
 ## Overview
 

@@ -1,7 +1,7 @@
 ---
 tags:
-  - compsci/cloud/aws/logging
-  - compsci/cloud/aws/security
+  - CS/cloud/aws/logging
+  - CS/cloud/aws/security
 up:
   - "[[AWS Security, Identity & Compliance]]"
 related:

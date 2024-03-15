@@ -1,6 +1,6 @@
 ---
 tags:
-  - compsci/cloud/aws/infrastructure
+  - CS/cloud/aws/infrastructure
 up:
   - "[[Amazon EC2]]"
 related:

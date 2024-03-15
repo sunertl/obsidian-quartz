@@ -1,6 +1,6 @@
 ---
 tags:
-  - compsci/cloud/aws/security
+  - CS/cloud/aws/security
 up:
   - "[[KMS Keys]]"
   - "[[AWS Key Management Service (KMS)]]"

@@ -1,6 +1,6 @@
 ---
 tags:
-  - compsci/cloud/aws/architecture
+  - CS/cloud/aws/architecture
 up:
   - "[[Amazon CloudFront]]"
 related:

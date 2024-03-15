@@ -1,7 +1,7 @@
 ---
 tags:
   - studies
-  - "#compsci/networking"
+  - "#CS/networking"
 related:
   - InfoSec
 year: 2024

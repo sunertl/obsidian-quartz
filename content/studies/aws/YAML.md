@@ -1,8 +1,8 @@
 ---
 tags:
-  - compsci/serialization/formats
+  - CS/serialization/formats
 ---
-#compsci/serialization/formats 
+#CS/serialization/formats 
 
 ## Overview
 

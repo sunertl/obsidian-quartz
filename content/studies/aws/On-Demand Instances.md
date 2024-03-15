@@ -1,6 +1,6 @@
 [[EC2 Instance Purchasing Options]]
 Related to [[Capacity Reservations]]
-#compsci/cloud/aws/instance 
+#CS/cloud/aws/instance 
 
 ## Overview
 

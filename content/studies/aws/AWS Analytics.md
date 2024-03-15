@@ -1,6 +1,6 @@
 ---
 tags:
-  - compsci/cloud/aws/analytics
+  - CS/cloud/aws/analytics
 related: "[[AWS]]"
 ---
 # Analytics

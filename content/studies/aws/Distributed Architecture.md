@@ -1,5 +1,5 @@
 [[AWS Application Integration]]
-#compsci/development/engineering/architecture
+#CS/development/engineering/architecture
 
 
 >[!Important]

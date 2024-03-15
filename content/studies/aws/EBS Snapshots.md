@@ -1,6 +1,6 @@
 ---
 tags:
-  - compsci/cloud/aws/storage
+  - CS/cloud/aws/storage
 up:
   - "[[Elastic Block Store (EBS)]]"
 related:

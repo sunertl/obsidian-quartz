@@ -1,6 +1,6 @@
 ---
 tags:
-  - compsci/cloud/aws/security
+  - CS/cloud/aws/security
 up:
   - "[[S3 Glacier Flexible Retrieval]]"
 related:

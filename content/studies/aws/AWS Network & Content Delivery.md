@@ -1,4 +1,4 @@
-tags:: #compsci/cloud/aws/network #compsci/networking
+tags:: #CS/cloud/aws/network #CS/networking
 
 ___
 Run every workload on a secure and reliable global network

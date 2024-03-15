@@ -1,7 +1,7 @@
 ---
 tags:
-  - compsci/cloud/aws/architecture
-  - compsci/cloud/aws/serverless
+  - CS/cloud/aws/architecture
+  - CS/cloud/aws/serverless
 up:
   - "[[AWS - Compute]]"
 related:

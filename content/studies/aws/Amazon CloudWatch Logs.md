@@ -1,6 +1,6 @@
 ---
 tags:
-  - compsci/cloud/aws/monitoring
+  - CS/cloud/aws/monitoring
 up:
   - "[[Amazon CloudWatch]]"
 related:

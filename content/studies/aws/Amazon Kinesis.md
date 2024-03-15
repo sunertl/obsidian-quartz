@@ -1,7 +1,7 @@
 ---
 tags:
-  - compsci/cloud/aws/serverless
-  - compsci/cloud/aws/intelligence
+  - CS/cloud/aws/serverless
+  - CS/cloud/aws/intelligence
 up: "[[AWS Analytics]]"
 related: "[[Amazon SQS]]"
 ---

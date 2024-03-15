@@ -1,8 +1,8 @@
 ---
 tags:
-  - "#compsci/development/engineering/virtualization"
+  - "#CS/development/engineering/virtualization"
 ---
-#compsci/development/engineering/virtualization 
+#CS/development/engineering/virtualization 
 
 ## Overview
 

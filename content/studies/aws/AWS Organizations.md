@@ -21,4 +21,4 @@ ___
 [[AWS Security, Identity & Compliance]]
 
 
-#compsci/cloud/aws/security #compsci/cloud/aws/iam #compsci/cloud/aws/sap 
+#CS/cloud/aws/security #CS/cloud/aws/iam #CS/cloud/aws/sap 

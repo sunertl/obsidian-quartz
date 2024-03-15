@@ -1,5 +1,5 @@
 [[AWS]]
-#compsci/cloud/aws/database
+#CS/cloud/aws/database
 
 ___
 Modernize your data infrastructure with fully managed, purpose-built databases

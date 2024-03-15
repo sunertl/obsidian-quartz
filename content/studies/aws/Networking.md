@@ -1,6 +1,6 @@
 ---
 tags:
-  - compsci/networking
+  - CS/networking
 category:
   - "[[Concepts]]"
 type:

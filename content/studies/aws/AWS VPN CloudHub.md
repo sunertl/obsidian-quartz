@@ -1,7 +1,7 @@
 ---
 tags:
-  - compsci/cloud/aws/security
-  - compsci/cloud/aws/network
+  - CS/cloud/aws/security
+  - CS/cloud/aws/network
 up:
   - "[[AWS Virtual Private Network (VPN)]]"
 related:

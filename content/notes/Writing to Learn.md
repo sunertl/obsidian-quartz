@@ -20,8 +20,6 @@ pu:
 - **Status**: #state/read 
 - **Date Read**: 2024-03-14
 
-![[writingtolearn.jpg]]
-
 ## Synopsis
 
 This book talks about the importance of writing as a form of learning. 

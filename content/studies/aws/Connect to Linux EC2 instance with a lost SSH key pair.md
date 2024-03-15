@@ -1,6 +1,6 @@
 ---
 tags:
-  - compsci/cloud/aws/security
+  - CS/cloud/aws/security
 up: "[[Amazon EC2]]"
 related:
   - "[[Threat Detection and Incident Response]]"

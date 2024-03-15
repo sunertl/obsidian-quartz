@@ -1,4 +1,4 @@
-#compsci/development/engineering/virtualization
+#CS/development/engineering/virtualization
 
 Concept of creating a virtual version of something related to computer hardware plattforms, storage devices and computer network resources.
 

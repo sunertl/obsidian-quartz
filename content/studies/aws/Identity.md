@@ -1,6 +1,6 @@
 ---
 tags:
-  - compsci/cloud/aws/security
+  - CS/cloud/aws/security
 up: "[[AWS Identity & Access Management (IAM)]]"
 related: "[[AWS Account]]"
 ---

@@ -1,6 +1,6 @@
 ---
 tags:
-  - compsci/cloud/aws/network
+  - CS/cloud/aws/network
 up:
   - "[[Amazon EC2]]"
 related:

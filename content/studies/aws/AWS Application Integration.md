@@ -1,5 +1,5 @@
 Up: [[AWS Hub]] 
-Tags: #compsci/cloud/aws/architecture #compsci/cloud/aws/applicationintegration
+Tags: #CS/cloud/aws/architecture #CS/cloud/aws/applicationintegration
 
 _____
 Integrate distributed systems and serverless applications with less code

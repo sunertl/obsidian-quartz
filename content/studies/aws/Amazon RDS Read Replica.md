@@ -1,7 +1,7 @@
 ---
 tags:
-  - "#compsci/cloud/aws/architecture"
-  - "#compsci/cloud/aws/database"
+  - "#CS/cloud/aws/architecture"
+  - "#CS/cloud/aws/database"
 up:
   - "[[Amazon RDS]]"
 ---

@@ -1,6 +1,6 @@
 ---
 tags:
-  - compsci/cloud/aws/storage
+  - CS/cloud/aws/storage
 up: "[[AWS]]"
 related: "[[AWS Analytics]]"
 ---

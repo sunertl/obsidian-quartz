@@ -1,4 +1,4 @@
-#compsci/development/engineering/architecture
+#CS/development/engineering/architecture
 
 
 # Overview

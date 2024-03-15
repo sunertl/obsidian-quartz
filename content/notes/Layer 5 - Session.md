@@ -1,6 +1,6 @@
 ---
 tags:
-  - compsci/networking/fundamentals
+  - CS/networking/fundamentals
 related:
   - "[[OSI Model]]"
 ---

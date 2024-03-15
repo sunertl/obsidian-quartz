@@ -1,8 +1,8 @@
 ---
 tags:
-  - compsci/security/encryption
+  - CS/security/encryption
 ---
-#compsci/security/encryption 
+#CS/security/encryption 
 
 >[!Definition]
 Encryption is the method by which information is converted into secret code that hides the information's true meaning.

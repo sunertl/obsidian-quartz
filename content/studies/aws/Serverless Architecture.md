@@ -1,8 +1,8 @@
 ---
 tags:
-  - compsci/development/engineering/architecture
+  - CS/development/engineering/architecture
 ---
-#compsci/development/engineering/architecture 
+#CS/development/engineering/architecture 
 # Overview
 
 >[!definition]

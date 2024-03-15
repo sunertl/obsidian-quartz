@@ -1,7 +1,7 @@
 ---
 tags:
-  - compsci/cloud/aws/monitoring
-  - compsci/cloud/aws/serverless
+  - CS/cloud/aws/monitoring
+  - CS/cloud/aws/serverless
 up:
   - "[[AWS Management & Governance]]"
 related:

@@ -1,4 +1,4 @@
-#compsci/development/engineering/execution
+#CS/development/engineering/execution
 
 Distinguish this from Development Environments and Build Environments.
 
