@@ -3,5 +3,5 @@ title: study resources
 ---
 Dive into what I am currently studying:
 
-- [[AWS]]
+- [[content/wiki/aws/AWS]]
 - [[Network+]]
