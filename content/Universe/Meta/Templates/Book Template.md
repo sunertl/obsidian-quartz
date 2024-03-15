@@ -16,8 +16,6 @@ last:
 via: ""
 tags:
   - books
-  - movies
-  - to-read
 ---
 - **Author**: 
 - **Genre**: 

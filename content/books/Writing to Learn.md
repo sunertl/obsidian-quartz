@@ -1,3 +1,25 @@
+---
+category:
+  - "[[Books]]"
+author:
+  - "[[William Zinsser]]"
+cover: 
+genre: 
+length: 
+isbn: 
+isbn13: 
+year: 
+rating: 
+topics: 
+created:
+  "{ date }": 
+last: 
+via: ""
+tags:
+  - books
+  - movies
+  - to-read
+---
 - **Author**: [[William Zinsser]]
 - **Genre**: #books/nonfiction 
 - **Status**: #status/read
@@ -9,6 +31,7 @@
 
 
 
+
 ## Reflection/Review
 
 
@@ -17,7 +40,7 @@
 
 ## Highlights
 
-### On writing itself
+### On writing
 
 - Clear writing is the logical arrangement of thought; a scientist who thinks clearly can write as well as the best writer.
 - Learning, he seemed to be saying, takes a multitude of forms; expect to find them in places where you least expect them to be.
