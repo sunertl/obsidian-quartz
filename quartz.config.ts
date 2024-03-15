@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "My Digital Garden",
+    pageTitle: "Home",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -22,8 +22,8 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Nunito",
-        body: "Nunito",
+        header: "Schibsted Grotesk",
+        body: "Source Sans Pro",
         code: "IBM Plex Mono",
       },
       colors: {
