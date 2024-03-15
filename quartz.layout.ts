@@ -5,7 +5,11 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  footer: Component.Footer(),
+  footer: Component.Footer({
+    links: {
+      Bluesky: "https://bsky.app/profile/stefun.io",
+    }
+  }),
 }
 
 // components for pages that display a single page (e.g. a single note)
