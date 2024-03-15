@@ -1,5 +1,5 @@
 Up: [[Coffee bar]]
-Tags: [#state/atomic](#state/atomic)  
+Tags: #notes/reference 
 Date: 2022-12-07
 
 ____
