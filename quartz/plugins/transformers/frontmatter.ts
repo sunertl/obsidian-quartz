@@ -97,7 +97,7 @@ export const FrontMatter: QuartzTransformerPlugin<Partial<Options> | undefined> 
             )
             if (modified) data.modified = modified
             const published = coerceDate(fp, coalesceAliases(data, ["published", "publishDate"]))
-            if (published) data.published = published
+            if (published) data.published = published 
 
             // fill in frontmatter
             file.data.frontmatter = data as QuartzPluginData["frontmatter"]
