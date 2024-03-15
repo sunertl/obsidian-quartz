@@ -15,7 +15,7 @@ export default ((opts?: Options) => {
       <footer class={`${displayClass ?? ""}`}>
         <hr />
         <p>
-        Created by "Stefan Unertl", © {year}
+        Created by Stefan Unertl, © {year}
         </p>
         <ul>
           {Object.entries(links).map(([text, link]) => (
