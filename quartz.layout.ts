@@ -8,6 +8,7 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       Bluesky: "https://bsky.app/profile/stefun.io",
+      Disclaimer: "https://stefun.io/Disclaimer",
     }
   }),
 }
