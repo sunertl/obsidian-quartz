@@ -1,4 +1,3 @@
-import { filter } from "d3"
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
@@ -6,7 +5,12 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  footer: Component.Footer(),
+  footer: Component.Footer({
+    links: {
+      GitHub: "https://github.com/jackyzha0/quartz",
+      "Discord Community": "https://discord.gg/cRFFHYye7t",
+    },
+  }),
 }
 
 // components for pages that display a single page (e.g. a single note)
@@ -29,6 +33,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Backlinks(),
   ],
 }
+
 // components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
