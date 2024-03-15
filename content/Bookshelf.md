@@ -1,7 +1,7 @@
 ---
 tags:
   - categories
-title: bookshelf
+title: Bookshelf
 ---
 
 ![[04A8893B-73F7-486E-B4E3-238403088C92_1_201_a.jpeg\|300x300]]
