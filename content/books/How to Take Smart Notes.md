@@ -5,7 +5,6 @@
 - **Status**: #state/read 
 - **Date Read**: 2023-03-05
 
-
 ![alt text|180](https://images-na.ssl-images-amazon.com/images/I/81b8H-MhlHL.jpg)
 
 # Synopsis
