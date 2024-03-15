@@ -8,14 +8,14 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Home",
+    pageTitle: "stefun.io",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "obsidian-quartz-ajt.pages.dev",
+    baseUrl: "stefun.io",
     ignorePatterns: ["private", "templates", ".obsidian", "Universe/Categories", "Universe/Meta/Readwise", "Universe/Meta/Templates"],
     defaultDateType: "created",
     theme: {

@@ -24,11 +24,11 @@ pu:
 
 ## Synopsis
 
-This book talks about the importance of writing as a form of learning.
+This book talks about the importance of writing as a form of learning. 
 
 ## Reflection/Review
 
-
+Thinking 
 
 ## Developed Ideas
 
