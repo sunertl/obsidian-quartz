@@ -23,7 +23,7 @@ tags:
 
 ## Synopsis
 
-This book talks about the importance of writing across the curriculum - a skill that is interdisciplinary and a foundation for all sciences.
+This book talks about the importance of writing as a form of learning.
 
 ## Reflection/Review
 
