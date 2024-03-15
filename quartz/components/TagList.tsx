@@ -30,7 +30,7 @@ TagList.css = `
   list-style: none;
   display: flex;
   padding-left: 0;
-  gap: 0.4rem;
+  gap: 1rem;
   margin: 1rem 0;
   flex-wrap: wrap;
   justify-self: end;
