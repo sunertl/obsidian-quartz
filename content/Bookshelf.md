@@ -1,6 +1,6 @@
 ---
 tags:
-  - categories
+  - "#categories"
 title: Bookshelf
 ---
 
