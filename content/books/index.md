@@ -5,14 +5,36 @@ title: bookshelf
 ---
 ![alt text|400](04A8893B-73F7-486E-B4E3-238403088C92_1_201_a.jpeg)
 
+Below is an (almost) complete list of books I have read, am planning to read or am currently reading. 
+
+
+
+### Reading
+
+- The Brothers Karamazov, Fyodor Dostoevsky
+
+### Read
+
+#### 2024
+
+- [[Writing to Learn]], Wiliam Zinsser
+
+#### 2023
 
 - [[Imagined Communities]], Benedict Anderson
 - [[The Making of a Manager]], Julie Zhuo
 - [[Lolita]], Vladimir Nabokov
-- many more to share...
+- [[Indistractable]], Nir Eyal
+- [[How to Take Smart Notes]], Sönke Ahrens
 
-#books for an overview and #books/nonfiction or #books/fiction 
 
-#### Currently reading
+### To Read
 
-- The Brothers Karamazov, Fyodor Dostoevsky
+> tsundoku (積ん読) is the phenomenon of acquiring reading materials but letting them pile up in one's home without reading them.
+
+
+#### Fiction
+
+
+
+#### Non-Fiction
