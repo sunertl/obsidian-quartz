@@ -13,6 +13,7 @@ rating: 7
 created: 2024-03-14
 tags:
   - books
+pu:
 ---
 - **Author**: [[William Zinsser]]
 - **Genre**: #books/nonfiction #books/education
