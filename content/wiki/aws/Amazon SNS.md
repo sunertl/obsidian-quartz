@@ -1,6 +1,6 @@
 ---
 tags:
-  - CS/cloud/aws/architecture
+  - aws/architecture
 up:
   - "[[AWS Management & Governance]]"
 related:

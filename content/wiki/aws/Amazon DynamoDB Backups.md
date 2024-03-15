@@ -1,6 +1,6 @@
 ---
 tags:
-  - CS/cloud/aws/database
+  - aws/database
 up:
   - "[[Amazon DynamoDB]]"
 ---

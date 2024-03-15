@@ -21,4 +21,4 @@ ___
 [[AWS Organizations]]
 [[Identity]]
 
-#CS/cloud/aws/iam
+#aws/iam

@@ -1,6 +1,6 @@
 ---
 tags:
-  - CS/cloud/aws/security
+  - aws/security
 up:
   - "[[S3 Server-Side Encryption]]"
 related:

@@ -1,4 +1,4 @@
-tags:: #CS/cloud/aws/network #CS/networking
+tags:: #aws/network #CS/networking
 
 ___
 Run every workload on a secure and reliable global network

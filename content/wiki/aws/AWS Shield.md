@@ -1,7 +1,7 @@
 ---
 tags:
-  - CS/cloud/aws/security
-  - CS/cloud/aws/network
+  - aws/security
+  - aws/network
 up:
   - "[[AWS Security, Identity & Compliance]]"
 related:

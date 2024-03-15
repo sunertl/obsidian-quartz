@@ -1,7 +1,7 @@
 ---
 tags:
-  - CS/cloud/aws/security
-  - CS/cloud/aws/storage
+  - aws/security
+  - aws/storage
 up:
   - "[[EBS Snapshots]]"
 related:

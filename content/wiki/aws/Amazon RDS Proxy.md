@@ -1,7 +1,7 @@
 ---
 tags:
-  - CS/cloud/aws/database
-  - "#CS/cloud/aws/architecture"
+  - aws/database
+  - "#aws/architecture"
 up:
   - "[[Amazon RDS]]"
 ---

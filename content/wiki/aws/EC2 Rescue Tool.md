@@ -1,6 +1,6 @@
 ---
 tags:
-  - CS/cloud/aws/security
+  - aws/security
 up:
   - "[[Amazon EC2]]"
 related:

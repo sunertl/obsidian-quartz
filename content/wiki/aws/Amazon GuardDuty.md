@@ -1,6 +1,6 @@
 ---
 tags:
-  - CS/cloud/aws/security
+  - aws/security
 up: "[[AWS Security, Identity & Compliance]]"
 related: "[[Threat Detection and Incident Response]]"
 ---

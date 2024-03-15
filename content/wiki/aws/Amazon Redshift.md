@@ -1,6 +1,6 @@
 ---
 tags:
-  - CS/cloud/aws/analytics
+  - aws/analytics
 up:
   - "[[AWS Analytics]]"
 related:

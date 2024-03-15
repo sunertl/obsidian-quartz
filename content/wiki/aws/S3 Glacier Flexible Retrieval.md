@@ -1,6 +1,6 @@
 ---
 tags:
-  - CS/cloud/aws/storage
+  - aws/storage
 up:
   - "[[Amazon S3]]"
 related:

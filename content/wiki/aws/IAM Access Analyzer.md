@@ -1,6 +1,6 @@
 ---
 tags:
-  - CS/cloud/aws/security
+  - aws/security
 up: "[[AWS Identity & Access Management (IAM)]]"
 related:
   - "[[Threat Detection and Incident Response]]"

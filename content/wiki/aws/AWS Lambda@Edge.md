@@ -1,7 +1,7 @@
 ---
 tags:
-  - CS/cloud/aws/architecture
-  - CS/cloud/aws/serverless
+  - aws/architecture
+  - aws/serverless
 up:
   - "[[AWS Lambda]]"
 related:

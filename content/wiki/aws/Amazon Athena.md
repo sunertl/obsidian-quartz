@@ -1,7 +1,7 @@
 ---
 tags:
-  - CS/cloud/aws/query
-  - CS/cloud/aws/analytics
+  - aws/query
+  - aws/analytics
 up:
   - "[[AWS Analytics]]"
 related:

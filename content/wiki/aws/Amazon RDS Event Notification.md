@@ -1,7 +1,7 @@
 ---
 tags:
-  - CS/cloud/aws/database
-  - CS/cloud/aws/monitoring
+  - aws/database
+  - aws/monitoring
 up:
   - "[[Amazon RDS]]"
 related:

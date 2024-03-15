@@ -1,6 +1,6 @@
 ---
 tags:
-  - CS/cloud/aws/intelligence
+  - aws/intelligence
 category: []
 up:
   - "[[AWS Analytics]]"

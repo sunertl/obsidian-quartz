@@ -1,5 +1,5 @@
 [[AWS]]
-#CS/cloud/aws/database
+#aws/database
 
 ___
 Modernize your data infrastructure with fully managed, purpose-built databases

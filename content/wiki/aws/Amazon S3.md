@@ -1,6 +1,6 @@
 ---
 tags:
-  - CS/cloud/aws/data
+  - aws/data
 up: "[[AWS Storage]]"
 related: "[[AWS Analytics]]"
 ---

@@ -1,6 +1,6 @@
 ---
 tags:
-  - CS/cloud/aws/infrastructure
+  - aws/infrastructure
 up:
   - "[[AWS Network & Content Delivery]]"
 related: []

@@ -1,7 +1,7 @@
 ---
 tags:
-  - CS/cloud/aws/logging
-  - CS/cloud/aws/security
+  - aws/logging
+  - aws/security
 up:
   - "[[AWS Security, Identity & Compliance]]"
 related:
