@@ -12,11 +12,11 @@ interface FolderContentOptions {
   /**
    * Whether to display number of folders
    */
-  showFolderCount: boolean
+  showFolderCount: false
 }
 
 const defaultOptions: FolderContentOptions = {
-  showFolderCount: true,
+  showFolderCount: false,
 }
 
 export default ((opts?: Partial<FolderContentOptions>) => {
