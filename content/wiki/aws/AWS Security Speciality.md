@@ -2,7 +2,7 @@
 tags:
   - studies
 related:
-  - "[[content/wiki/aws/AWS]]"
+  - "[[content/wiki/AWS/index]]"
 year: 2023
 type:
   - Certification

@@ -2,7 +2,7 @@
 tags:
   - aws/security
 up:
-  - "[[content/wiki/aws/AWS]]"
+  - "[[content/wiki/AWS/index]]"
 related:
   - "[[AWS Security Speciality]]"
 ---

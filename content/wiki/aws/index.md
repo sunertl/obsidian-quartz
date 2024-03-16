@@ -4,6 +4,7 @@ category:
 type:
   - Infrastructure
 created: 2022-01-21
+title: AWS
 ---
 
 I initially used Obsidian as a tool with which I created my own, private, local- and offline-first Wikipedia for all things AWS. I wrote the majority of my notes while studying for AWS exams. These notes are for my own private use only.
