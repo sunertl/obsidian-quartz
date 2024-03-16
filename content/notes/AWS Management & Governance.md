@@ -1,4 +1,4 @@
-[[content/wiki/AWS]]
+[[content/notes/AWS]]
 ___
 Business agility and governance controls
 ___
