@@ -1,4 +1,4 @@
-[[AWS]]
+[[content/wiki/AWS]]
 #aws/database
 
 ___

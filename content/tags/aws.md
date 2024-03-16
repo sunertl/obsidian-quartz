@@ -1,0 +1,3 @@
+I initially used Obsidian as a tool with which I created my own, private, local- and offline-first wiki for all things AWS. I wrote the majority of my notes while studying for AWS exams. 
+
+I use plugins such as [Dataview](https://github.com/blacksmithgu/obsidian-dataview) to organize my notes and [Spaced Repetition](https://github.com/st3v3nmw/obsidian-spaced-repetition) to study. Some of these notes still require the use of plugins to get displayed which is not supported by Quartz.

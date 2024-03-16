@@ -1,7 +1,7 @@
 ---
 tags:
   - aws/storage
-up: "[[AWS]]"
+up: "[[content/wiki/AWS]]"
 related: "[[AWS Analytics]]"
 ---
 
