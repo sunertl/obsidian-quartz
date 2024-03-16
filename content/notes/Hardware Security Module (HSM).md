@@ -1,7 +1,7 @@
 ---
 created: 2023-11-16
 tags:
-  - permanent
+  - docs
 ---
 ## Overview
 

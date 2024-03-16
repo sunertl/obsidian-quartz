@@ -1,7 +1,7 @@
 ---
 created: 2023-12-28
 tags:
-  - permanent
+  - docs
 ---
 Authenticated encryption uses [[Additional Authenticated Data (AAD)]] to provide confidentiality, data integrity, and authenticity assurances on encrypted data.
 

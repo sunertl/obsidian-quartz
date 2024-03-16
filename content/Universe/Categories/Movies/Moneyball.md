@@ -5,7 +5,7 @@
 
 - **Author**: [[Michael Lewis]]
 - **Genre**: #books 
-- **Status**: #state/read
+- **Status**: #incubating
 - **Date Read**: 2022-12-07
 
 ![alt text|180](https://m.media-amazon.com/images/I/41muYYGwiOL._AC_SY780_.jpg)
