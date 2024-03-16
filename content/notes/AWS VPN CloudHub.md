@@ -1,7 +1,7 @@
 ---
 tags:
-  - aws/security
-  - aws/network
+  - docs
+  - docs
 up:
   - "[[AWS Virtual Private Network (VPN)]]"
 related:

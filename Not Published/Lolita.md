@@ -21,7 +21,7 @@ tags:
 #books
 
 - **Author**: [[Vladimir Nabokov]]
-- **Genre**: #books/fiction 
+- **Genre**: #books 
 - **Status**: #state/read
 - **Date Read**: 2023-12-22
 

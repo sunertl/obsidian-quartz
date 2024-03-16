@@ -1,6 +1,6 @@
 ---
 tags:
-  - aws/security
+  - docs
 up:
   - "[[Amazon DynamoDB]]"
 related:

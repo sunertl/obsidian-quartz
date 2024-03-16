@@ -1,5 +1,5 @@
 Up: [[Coffee bar]]
-Tags: #notes/reference 
+Tags: #notes 
 Date: 2022-12-07
 
 ____

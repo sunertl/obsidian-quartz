@@ -1,7 +1,7 @@
 ---
 tags:
-  - aws/security
-  - aws/storage
+  - docs
+  - docs
 up:
   - "[[EBS Snapshots]]"
 related:

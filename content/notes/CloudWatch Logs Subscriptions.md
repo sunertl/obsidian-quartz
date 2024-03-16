@@ -1,6 +1,6 @@
 ---
 tags:
-  - aws/monitoring
+  - docs
 up:
   - "[[Amazon CloudWatch]]"
 related:

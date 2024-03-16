@@ -1,6 +1,6 @@
 ---
 tags:
-  - aws/security
+  - docs
 up:
   - "[[IAM Policy Types]]"
 related:

@@ -1,6 +1,6 @@
 ---
 tags:
-  - aws/architecture
+  - docs
 up:
   - "[[AWS - Compute]]"
 related:

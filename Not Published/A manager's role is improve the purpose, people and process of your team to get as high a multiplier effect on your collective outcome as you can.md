@@ -1,9 +1,9 @@
 ---
 created: 2023-10-06
 tags:
-  - notes/highlight
+  - notes
 ---
-#notes/highlight 
+#notes 
 
 ## Purpose
 

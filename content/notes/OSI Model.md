@@ -1,12 +1,12 @@
 ---
 tags:
-  - CS/networking
+  - docs
 up:
   - "[[1.1 Compare and contrast the Open Systems Interconnection (OSI) model layers and encapsulation concepts]]"
 related:
   - "[[1.0 Networking Fundamentals]]"
 ---
-#CS/networking 
+#docs 
 
 ## Overview
 

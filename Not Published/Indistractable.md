@@ -1,7 +1,7 @@
 #books
 
 - **Author**: [[Nir Eyal]]
-- **Genre**: #books/nonfiction 
+- **Genre**: #books 
 - **Status**: #state/reading 
 - **Date Read**:  
 

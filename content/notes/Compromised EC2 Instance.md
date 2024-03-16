@@ -1,6 +1,6 @@
 ---
 tags:
-  - aws/security
+  - docs
 up: "[[AWS Security, Identity & Compliance]]"
 related:
   - "[[Threat Detection and Incident Response]]"

@@ -1,3 +1,3 @@
-#notes/highlight 
+#notes 
 
 Quote by Tom Hayden

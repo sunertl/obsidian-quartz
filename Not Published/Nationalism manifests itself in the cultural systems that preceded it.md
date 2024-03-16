@@ -6,7 +6,7 @@ related:
   - "[[Nationalism]]"
   - "[[Nation]]"
 ---
-#notes/highlight 
+#notes 
 
 ## The cultural systems are religious community and dynastic realm
 

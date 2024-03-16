@@ -1,7 +1,7 @@
 ---
 tags:
-  - aws/security
-  - aws/network
+  - docs
+  - docs
 up:
   - "[[AWS Security, Identity & Compliance]]"
 related:

@@ -1,6 +1,6 @@
 ---
 tags:
-  - aws/analytics
+  - docs
 related: "[[content/notes/AWS]]"
 ---
 # Analytics

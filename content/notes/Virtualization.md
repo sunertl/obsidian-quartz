@@ -1,4 +1,4 @@
-#CS/development/engineering/virtualization
+#docs
 
 Concept of creating a virtual version of something related to computer hardware plattforms, storage devices and computer network resources.
 

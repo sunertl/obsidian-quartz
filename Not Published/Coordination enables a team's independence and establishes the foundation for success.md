@@ -2,11 +2,11 @@
 created: 2023-10-06
 tags:
   - career/management
-  - notes/highlight
+  - notes
 related:
   - "[[The Making of a Manager]]"
 ---
-#notes/highlight  #career/management 
+#notes  #career/management 
 
 Who should do what by when
 

@@ -1,6 +1,6 @@
 ---
 tags:
-  - aws/security
+  - docs
 up:
   - "[[S3 Glacier Flexible Retrieval]]"
 related:

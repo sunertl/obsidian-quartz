@@ -1,6 +1,6 @@
 ---
 tags:
-  - aws/infrastructure
+  - docs
 up:
   - "[[AWS Network & Content Delivery]]"
 related: []

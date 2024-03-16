@@ -1,6 +1,6 @@
 ---
 tags:
-  - aws/security
+  - docs
 up: "[[AWS Security, Identity & Compliance]]"
 related:
   - "[[Amazon EC2]]"

@@ -1,7 +1,7 @@
 ---
 tags:
-  - aws/database
-  - "#aws/architecture"
+  - docs
+  - "#docs"
 up:
   - "[[Amazon RDS]]"
 ---

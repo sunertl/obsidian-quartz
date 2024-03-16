@@ -1,6 +1,6 @@
 ---
 tags:
-  - aws/security
+  - docs
 up:
   - "[[content/notes/AWS]]"
 related:

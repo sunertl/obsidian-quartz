@@ -1,6 +1,6 @@
 ---
 tags:
-  - "#CS/networking"
+  - "#docs"
 up:
   - "[[OSI Model]]"
 ---

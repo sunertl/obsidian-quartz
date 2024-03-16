@@ -1,7 +1,7 @@
 ---
 tags:
-  - aws/logging
-  - aws/security
+  - docs
+  - docs
 up:
   - "[[AWS Security, Identity & Compliance]]"
 related:

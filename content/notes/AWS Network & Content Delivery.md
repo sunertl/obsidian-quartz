@@ -1,4 +1,4 @@
-tags:: #aws/network #CS/networking
+tags:: #docs #docs
 
 ___
 Run every workload on a secure and reliable global network

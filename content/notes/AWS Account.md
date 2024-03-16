@@ -21,4 +21,4 @@ ___
 [[AWS Organizations]]
 [[Identity]]
 
-#aws/iam
+#docs

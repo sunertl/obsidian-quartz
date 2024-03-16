@@ -22,7 +22,7 @@ tags:
 #books
 
 - **Author**:  [[Howard Zinn]]
-- **Genre**: #books/nonfiction
+- **Genre**: #books
 - **Status**: #state/reading 
 - **Date Read**:
 

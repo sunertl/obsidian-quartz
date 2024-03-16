@@ -1,7 +1,7 @@
 ---
 tags:
-  - notes/highlight
+  - notes
   - philosophy/polphil/marxism
 related:
 ---
-#notes/highlight  #philosophy/polphil/marxism 
+#notes  #philosophy/polphil/marxism 

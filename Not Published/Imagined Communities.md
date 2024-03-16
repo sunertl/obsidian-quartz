@@ -24,7 +24,7 @@ tags:
 #books 
 
 - **Author**: [[Benedict Anderson]]
-- **Genre**: #books/nonfiction 
+- **Genre**: #books 
 - **Status**: #state/read 
 - **Date Read**: 2023-10-29
 

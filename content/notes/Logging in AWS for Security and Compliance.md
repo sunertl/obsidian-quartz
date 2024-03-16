@@ -1,6 +1,6 @@
 ---
 tags:
-  - aws/security
+  - docs
 up:
   - "[[AWS Management & Governance]]"
   - "[[AWS Security, Identity & Compliance]]"

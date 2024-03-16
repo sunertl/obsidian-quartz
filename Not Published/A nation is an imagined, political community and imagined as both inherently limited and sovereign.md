@@ -1,9 +1,9 @@
 ---
 created: 2023-10-29
 tags:
-  - notes/highlight
+  - notes
 ---
-#notes/highlight 
+#notes 
 
 **Why is it imagined?**
 Because the people of even the smallest nation will never know most of their fellow-members, yet in the minds of each lives the image of their communion.

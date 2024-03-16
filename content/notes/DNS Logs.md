@@ -1,6 +1,6 @@
 ---
 tags:
-  - aws/network
+  - docs
 up:
   - "[[Amazon EC2]]"
 related:

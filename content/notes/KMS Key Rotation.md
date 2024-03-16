@@ -1,6 +1,6 @@
 ---
 tags:
-  - aws/security
+  - docs
 up:
   - "[[KMS Keys]]"
   - "[[AWS Key Management Service (KMS)]]"

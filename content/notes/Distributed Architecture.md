@@ -1,5 +1,5 @@
 [[AWS Application Integration]]
-#CS/development/engineering/architecture
+#docs
 
 
 >[!Important]

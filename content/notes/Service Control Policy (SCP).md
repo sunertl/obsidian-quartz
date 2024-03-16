@@ -1,6 +1,6 @@
 ---
 tags:
-  - aws/security
+  - docs
 up:
   - "[[AWS Organizations]]"
   - "[[AWS Identity & Access Management (IAM)]]"

@@ -1,6 +1,6 @@
 ---
 tags:
-  - aws/storage
+  - docs
 up:
   - "[[Amazon EC2]]"
 ---

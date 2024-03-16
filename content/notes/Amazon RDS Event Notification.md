@@ -1,7 +1,7 @@
 ---
 tags:
-  - aws/database
-  - aws/monitoring
+  - docs
+  - docs
 up:
   - "[[Amazon RDS]]"
 related:

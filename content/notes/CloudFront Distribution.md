@@ -1,6 +1,6 @@
 ---
 tags:
-  - aws/architecture
+  - docs
 up:
   - "[[Amazon CloudFront]]"
 related:

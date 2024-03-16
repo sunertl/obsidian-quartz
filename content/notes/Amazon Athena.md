@@ -1,7 +1,7 @@
 ---
 tags:
-  - aws/query
-  - aws/analytics
+  - docs
+  - docs
 up:
   - "[[AWS Analytics]]"
 related:

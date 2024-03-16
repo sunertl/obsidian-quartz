@@ -1,6 +1,6 @@
 ---
 tags:
-  - aws/intelligence
+  - docs
 category: []
 up:
   - "[[AWS Analytics]]"

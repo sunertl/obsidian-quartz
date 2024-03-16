@@ -1,4 +1,4 @@
-#CS/development/engineering/architecture 
+#docs 
 
 >[!Important]
 >A single-tiered system that operates as a single unit only without any independent submodules. It is composed of a database, server-side application, and a user interface that is tightly coupled with each other and runs in a single platform. 

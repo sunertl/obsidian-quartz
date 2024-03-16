@@ -1,6 +1,6 @@
 ---
 tags:
-  - aws/storage
+  - docs
 up:
   - "[[Elastic Block Store (EBS)]]"
 related:

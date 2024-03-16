@@ -1,6 +1,6 @@
 ---
 tags:
-  - people/types
+  - people
 ---
 
 ```dataview

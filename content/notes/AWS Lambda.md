@@ -1,7 +1,7 @@
 ---
 tags:
-  - aws/architecture
-  - aws/serverless
+  - docs
+  - docs
 up:
   - "[[AWS - Compute]]"
 related:

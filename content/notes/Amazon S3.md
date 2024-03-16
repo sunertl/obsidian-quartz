@@ -1,6 +1,6 @@
 ---
 tags:
-  - aws/data
+  - docs
 up: "[[AWS Storage]]"
 related: "[[AWS Analytics]]"
 ---

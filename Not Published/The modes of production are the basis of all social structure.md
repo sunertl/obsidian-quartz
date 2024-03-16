@@ -1,11 +1,11 @@
 ---
 tags:
-  - notes/highlight
+  - notes
   - philosophy/polphil/marxism
 related:
   - "[[Socialism - Utopian and Scientific]]"
 ---
-#notes/highlight #philosophy/polphil/marxism 
+#notes #philosophy/polphil/marxism 
 
 The manner in which wealth is distributed and society divided into classes or order is dependent upon what is produced, how it is produced, and how the products are exchanged.
 

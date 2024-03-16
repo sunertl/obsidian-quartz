@@ -19,7 +19,7 @@ tags:
 #books
 
 - **Author**:  [[Julie Zhuo]]
-- **Genre**: #books/nonfiction
+- **Genre**: #books
 - **Status**: #state/read
 - **Date Read**: 2023-10-06
 

@@ -16,7 +16,7 @@ tags:
 pu:
 ---
 - **Author**: [[William Zinsser]]
-- **Genre**: #books/nonfiction #books/education
+- **Genre**: #books #books
 - **Status**: #state/read 
 - **Date Read**: 2024-03-14
 

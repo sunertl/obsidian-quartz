@@ -1,9 +1,9 @@
 ---
 created: 2023-10-07
 tags:
-  - notes/highlight
+  - notes
 ---
-#notes/highlight #career/management 
+#notes #career/management 
 
 Make sure to address the following:
 

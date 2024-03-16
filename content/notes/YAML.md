@@ -1,8 +1,8 @@
 ---
 tags:
-  - CS/serialization/formats
+  - docs
 ---
-#CS/serialization/formats 
+#docs 
 
 ## Overview
 

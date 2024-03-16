@@ -1,5 +1,5 @@
 [[content/notes/AWS]]
-#aws/database
+#docs
 
 ___
 Modernize your data infrastructure with fully managed, purpose-built databases

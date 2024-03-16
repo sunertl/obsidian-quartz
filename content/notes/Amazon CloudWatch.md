@@ -1,6 +1,6 @@
 ---
 tags:
-  - aws/monitoring
+  - docs
 up:
   - "[[AWS Management & Governance]]"
 related:

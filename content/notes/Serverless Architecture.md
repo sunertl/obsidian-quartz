@@ -1,8 +1,8 @@
 ---
 tags:
-  - CS/development/engineering/architecture
+  - docs
 ---
-#CS/development/engineering/architecture 
+#docs 
 # Overview
 
 >[!definition]

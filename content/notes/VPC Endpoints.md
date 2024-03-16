@@ -1,6 +1,6 @@
 ---
 tags:
-  - aws/infrastructure
+  - docs
 up:
   - "[[Amazon VPC]]"
 related:

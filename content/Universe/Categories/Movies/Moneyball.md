@@ -4,7 +4,7 @@
 # Moneyball
 
 - **Author**: [[Michael Lewis]]
-- **Genre**: #books/sports 
+- **Genre**: #books 
 - **Status**: #state/read
 - **Date Read**: 2022-12-07
 

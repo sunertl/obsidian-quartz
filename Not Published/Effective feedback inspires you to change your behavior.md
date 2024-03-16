@@ -1,11 +1,11 @@
 ---
 created: 2023-10-07
 tags:
-  - notes/highlight
+  - notes
 related:
   - "[[The Making of a Manager]]"
 ---
-#notes/highlight 
+#notes 
 
 ## Four most common ways to inspire a change in behavior
 

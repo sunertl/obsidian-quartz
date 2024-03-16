@@ -1,5 +1,5 @@
 Up: [[AWS Hub]] 
-Tags: #aws/architecture #aws/applicationintegration
+Tags: #docs #docs
 
 _____
 Integrate distributed systems and serverless applications with less code

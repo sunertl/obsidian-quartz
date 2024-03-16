@@ -1,6 +1,6 @@
 ---
 tags:
-  - aws/database
+  - docs
 up:
   - "[[AWS - Database]]"
 related:

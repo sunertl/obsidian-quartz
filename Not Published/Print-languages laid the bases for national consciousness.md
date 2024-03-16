@@ -1,12 +1,12 @@
 ---
 created: 2023-10-29
 tags:
-  - notes/highlight
+  - notes
 related:
   - "[[Nation]]"
   - "[[Nationalism]]"
 ---
-#notes/highlight 
+#notes 
 
 ## Main Reasons
 

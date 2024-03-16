@@ -1,7 +1,7 @@
 ---
 tags:
-  - aws/monitoring
-  - aws/serverless
+  - docs
+  - docs
 up:
   - "[[AWS Management & Governance]]"
 related:

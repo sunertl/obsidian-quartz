@@ -1,10 +1,10 @@
 ---
 created: 2023-10-06
 tags:
-  - notes/highlight
+  - notes
   - career/management
 ---
-#notes/highlight #career/management 
+#notes #career/management 
 
 The Why - the outcome your team is trying to accomplish
 
