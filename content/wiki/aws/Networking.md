@@ -6,5 +6,5 @@ category:
 type:
   - "[[Information Technology]]"
 related:
-  - "[[Network+]]"
+  - "[[content/wiki/Network+/index]]"
 ---

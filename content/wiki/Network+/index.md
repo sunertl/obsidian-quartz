@@ -9,6 +9,7 @@ type:
   - Certification
 status:
   - In Progress
+title: Network+
 ---
 #studies 
 
