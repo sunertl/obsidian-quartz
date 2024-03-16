@@ -5,7 +5,7 @@ category:
 
 
 [[Political Philosophy]]
-#map 
+
 
 # Wiki
 

@@ -9,3 +9,8 @@ I created this site to share some of my (thousand?) notes I wrote over the last 
 
 I extensively used Obsidian for various study projects - search for [[AWS]]
 
+- what I am 
+
+
+
+[[Projects]]
