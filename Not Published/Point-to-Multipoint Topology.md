@@ -1,6 +1,6 @@
 ---
 tags:
-  - CS/networking/fundamentals
+  - CS/networking
 related:
   - "[[1.2 Explain the characteristics of network topologies and network types]]"
 ---
