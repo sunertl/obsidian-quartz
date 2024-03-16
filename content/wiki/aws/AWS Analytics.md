@@ -1,7 +1,7 @@
 ---
 tags:
   - aws/analytics
-related: "[[content/wiki/AWS/index]]"
+related: "[[AWS]]"
 ---
 # Analytics
 
