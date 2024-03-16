@@ -5,6 +5,7 @@ up:
   - "[[AWS Management & Governance]]"
 related:
   - "[[Security Logging and Monitoring]]"
+created: 2023-12-20
 ---
 ## Overview
 

@@ -1,6 +1,7 @@
-⬆️ [[AWS - Compute]] | [[Elasticity]]
-tags:: [[efficiency]]  [[aws/scaling]] 
-
+---
+tags:
+  - docs
+---
 # Overview
 Technology that enables your compute capacity to automatically adjust whenever your application load changes. It allows you to acquire more resources based on your current demand and release the same resources when you no longer need them. 
 

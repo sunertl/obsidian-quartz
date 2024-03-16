@@ -1,5 +1,5 @@
-[[Life]]
-#hobby #map 
+
+#hobby
 
 
 # Seasons

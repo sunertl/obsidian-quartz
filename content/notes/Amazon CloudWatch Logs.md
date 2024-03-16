@@ -6,6 +6,7 @@ up:
 related:
   - "[[Security Logging and Monitoring]]"
   - "[[CloudWatch Logs Subscriptions]]"
+created: 2023-12-01
 ---
 ## Concepts
 ### Log streams

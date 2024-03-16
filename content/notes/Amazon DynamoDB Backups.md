@@ -3,6 +3,7 @@ tags:
   - docs
 up:
   - "[[Amazon DynamoDB]]"
+created: 2022-10-31
 ---
 # Overview
 

@@ -3,8 +3,9 @@ tags:
   - docs
 up:
   - "[[Amazon Aurora]]"
+created: 2022-06-10
 ---
-# Overview
+## Overview
 
 
 > [!Definition] Definition
@@ -22,7 +23,7 @@ ACUs are stateless and shared across many AWS customers and have no local storag
 
 There is a shared proxy fleet. When a customer interacts with the data they are actually communicating with the proxy fleet. The proxy fleet brokers an application with the ACU and ensures you can scale in and out without worrying about usage. This is managed by AWS on your behalf.
 
-# Use Cases
+## Use Cases
 
 -   Infrequently used applications.
     -   Low volume blog site.

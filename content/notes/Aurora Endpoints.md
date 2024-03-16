@@ -1,3 +1,7 @@
+---
+tags:
+  - docs
+---
 Aurora clusters like RDS use endpoints, so these are DNS addresses which are used to connect to the cluster. Unlike RDS, Aurora clusters have multiple endpoints that are available for an application.
 
 Minimum endpoints

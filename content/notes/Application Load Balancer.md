@@ -1,3 +1,7 @@
+---
+tags:
+  - docs
+---
 # Overview
 
 All AWS load balancers are scalable and highly available. Capacity that you have as part of an ALB increases automatically based on the load which passes through that ALB. This is made of multiple ALB nodes each running in different AZs. This makes them scalable and highly available.

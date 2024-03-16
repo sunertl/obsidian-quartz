@@ -5,6 +5,7 @@ up:
   - "[[Amazon CloudWatch]]"
 related:
   - "[[Security Logging and Monitoring]]"
+created: 2023-12-02
 ---
 >[!important] Important
 > - Various options (sampling, %, max, min, etc.)

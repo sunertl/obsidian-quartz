@@ -5,6 +5,7 @@ up:
   - "[[AWS Security, Identity & Compliance]]"
 related:
   - "[[Threat Detection and Incident Response]]"
+created: 2023-12-02
 ---
 ## Overview
 

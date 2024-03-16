@@ -18,16 +18,8 @@ last:
 via: ""
 tags:
   - books
+  - incubating
 ---
-#books
-
-- **Author**:  [[Howard Zinn]]
-- **Genre**: #books
-- **Status**: #incubating 
-- **Date Read**:
-
-![alt text|180](https://images-na.ssl-images-amazon.com/images/I/81s0FnUkqIL.jpg)
-
 ## Synopsis
 
 Zinn presented what he considered to be a different side of history from the more traditional "fundamental nationalist glorification of country". Zinn portrays a side of American history that can largely be seen as the exploitation and manipulation of the majority by rigged systems that hugely favor a small aggregate of elite rulers from across the orthodox political parties. 

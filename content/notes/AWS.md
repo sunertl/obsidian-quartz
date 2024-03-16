@@ -4,12 +4,14 @@ category:
 type:
   - Infrastructure
 created: 2022-01-21
+tags:
+  - docs
 ---
-
 I initially used Obsidian as a tool with which I created my own, private, local- and offline-first wiki for all things AWS. I wrote the majority of my notes while studying for AWS exams. 
 
-I use plugins such as [Dataview](https://github.com/blacksmithgu/obsidian-dataview) to organize my notes and [Spaced Repetition](https://github.com/st3v3nmw/obsidian-spaced-repetition) to study. Some of these notes still require the use of plugins to get displayed which is not supported by Quartz.
+I use plugins such as [Dataview](https://github.com/blacksmithgu/obsidian-dataview) to organize my notes and [Spaced Repetition](https://github.com/st3v3nmw/obsidian-spaced-repetition) to study. The former is a way to query data in my [[Obsidian]] vault and display it (this is particularly helpful if I want to have an overview of related notes based on tags, keywords, etc.) and the latter enables me to create flashcards 
 
+Below is a list 
 ## Products
 
 ## [[AWS Analytics|Analytics]]
@@ -35,7 +37,4 @@ I use plugins such as [Dataview](https://github.com/blacksmithgu/obsidian-datavi
 
 [[AWS Data-Driven Everything Conference]]
 
-## Exams/Certificates
-
-[[AWS Security Speciality]]
 

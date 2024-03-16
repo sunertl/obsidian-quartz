@@ -1,11 +1,11 @@
 ---
 tags:
   - docs
-  - docs
 up:
   - "[[AWS Analytics]]"
 related:
   - "[[Security Logging and Monitoring]]"
+created: 2023-12-01
 ---
 ## Overview
 

@@ -3,7 +3,7 @@ tags:
   - docs
 up:
   - "[[AWS - Database]]"
-related:
+created: 2022-06-15
 ---
 # Overview
 
@@ -132,3 +132,4 @@ You must manually set up the following on the restored table:
 -   Tags
 -   Stream settings
 -   Time to Live (TTL) settings
+

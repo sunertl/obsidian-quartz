@@ -11,8 +11,6 @@ status:
   - In Progress
 title: Network+
 ---
-#studies 
-
 ## Motivation
 
 I realized that I had a massive knowledge gap with networking concepts while studying for the [[AWS Security Speciality]] exam. Fascinated by InfoSec - wanted to get more exposure to basic InfoSec concepts - networking knowledge is absolute key for InfoSec.
@@ -36,12 +34,8 @@ Goal is to have the exam before my birthday - June 21, 2024
 
 ## Exam Objectives
 
-[[1.0 Networking Fundamentals]]
-[[2.0 Network Implementations]]
-[[3.0 Network Operations]]
-[[4.0 Network Security]]
-[[5.0 Network Troubleshooting]]
-
-## Flash Cards
-
-[[Network+ Flash Cards]]
+- [[1.0 Networking Fundamentals]]
+- [[2.0 Network Implementations]]
+- [[3.0 Network Operations]]
+- [[4.0 Network Security]]
+- [[5.0 Network Troubleshooting]]

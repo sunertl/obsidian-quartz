@@ -1,5 +1,10 @@
-Up: [[AWS Hub]] 
-Tags: #docs #docs
+---
+tags:
+  - docs
+up:
+  - "[[AWS]]"
+---
+
 
 _____
 Integrate distributed systems and serverless applications with less code

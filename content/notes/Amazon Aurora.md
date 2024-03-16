@@ -3,8 +3,9 @@ tags:
   - "#docs"
 up:
   - "[[AWS - Database]]"
+created: 2022-06-10
 ---
-# Overview
+## Overview
 
 - A fully managed database service and also a type of database engine within [[Amazon RDS]].
 - Scales automatically, performs faster, and costs lower
@@ -24,7 +25,7 @@ Using endpoints, you can map each connection to the appropriate instance or grou
 
 The custom endpoint provides load-balanced database connections based on criteria other than the read-only or read-write capability of the DB instances. For example, you might define a custom endpoint to connect to instances that use a particular AWS instance class or a particular DB parameter group. Then you might tell particular groups of users about this custom endpoint. For example, you might direct internal users to low-capacity instances for report generation or ad hoc (one-time) querying, and direct production traffic to high-capacity instances.
 
-# Use Cases
+## Use Cases
 
 - For migrating legacy applications hosted on-premises that needs to be re-architected and reduce operating costs
 - If it is required to re-architect your application by using technologies that do not require any IT administration team to regularly manage your servers or clusters
@@ -43,7 +44,7 @@ The custom endpoint provides load-balanced database connections based on criteri
 - For migrating your on-premises database to AWS Cloud without having to worry about its particular database instance type
 - If you need to eliminate the need to manually modify your database instance type in anticipation of the changes in the number of your users or workloads
 
-# Aurora DB Cluster
+## Aurora DB Cluster
 
 It uses a **cluster** which is:
 
@@ -75,7 +76,7 @@ It uses a **cluster** which is:
 Aurora clusters like RDS use [[Aurora Endpoints]], so these are DNS addresses which are used to connect to the cluster. Unlike RDS, Aurora clusters have multiple endpoints that are available for an application.
 
 
-# Costs
+## Costs
 
 - Costs more than RDS (20% more) - but is more efficient  
 - No free-tier option
@@ -87,14 +88,14 @@ Aurora clusters like RDS use [[Aurora Endpoints]], so these are DNS addresses wh
 -   100% DB size in backups are included for free.
     -   100 GB cluster will have 100 GB of storage for backups.
 
-# Amazon Aurora Serverless
+## Amazon Aurora Serverless
 
 - Recommended for sporadic usage workloads or with unpredictable usage
 - Pay your database usage on a per-second basis
 - Provides a more cost-effective option than the regular Amazon RDS or Amazon Aurora databases
 - [[Amazon Aurora Serverless]]
 
-# Aurora High Availability and Read Scaling
+## Aurora High Availability and Read Scaling
 
 - 6 copies of your data across 3 AZ
 	- 4 copies out of 6 needed for writes
@@ -106,7 +107,7 @@ Aurora clusters like RDS use [[Aurora Endpoints]], so these are DNS addresses wh
 - Master + up to 15 Aurora Read Replicas serve reads
 - Support for Cross Region Replication
 
-# Aurora Global Databases
+## Aurora Global Databases
 
 Introduces the idea of secondary regions with up to 16 read only replicas. Replication from primary region to secondary regions happens at the storage layer and typically occurs within one second.
 

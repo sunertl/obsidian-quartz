@@ -5,6 +5,7 @@ up:
   - "[[AWS Security, Identity & Compliance]]"
 related:
   - "[[Identity and Access Management]]"
+created: 2023-12-01
 ---
 ## Overview
 

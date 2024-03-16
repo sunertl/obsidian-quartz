@@ -1,9 +1,10 @@
 ---
 tags:
   - docs
-  - docs
-up: "[[AWS Analytics]]"
-related: "[[Amazon SQS]]"
+up:
+  - "[[AWS Analytics]]"
+related:
+  - "[[Amazon SQS]]"
 ---
 # Overview
 

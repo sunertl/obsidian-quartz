@@ -2,8 +2,6 @@
 tags:
   - incubating
 ---
-#incubating 
-
 We start our intellectual endeavors with preconceptions that can be transformed during further inquiries and can serve as a starting point for following endeavors. This is also called a [[Hermeneutic Circle]] 
 
 By focusing on what is interesting and writing down your own intellectual development, topics, questions and arguments will emerge from the material without force. 

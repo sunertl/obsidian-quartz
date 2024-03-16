@@ -1,3 +1,7 @@
+---
+tags:
+  - docs
+---
 # Overview
 
 An _Auto Scaling group_ contains a collection of [[Amazon EC2]] instances that are treated as a logical grouping for the purposes of automatic scaling and management. An Auto Scaling group also enables you to use Amazon EC2 Auto Scaling features such as health check replacements and scaling policies. Both maintaining the number of instances in an Auto Scaling group and automatic scaling are the core functionality of the Amazon EC2 Auto Scaling service.

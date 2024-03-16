@@ -1,12 +1,12 @@
 ---
 tags:
   - docs
-  - docs
 up:
   - "[[AWS Network & Content Delivery]]"
 related:
   - "[[Infrastructure Security]]"
   - "[[CloudFront Content Delivery]]"
+created: 2023-12-12
 ---
 ## Overview
 

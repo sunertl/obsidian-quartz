@@ -15,32 +15,21 @@ topics:
   - nationalism
   - capitalism
 created: 2023-10-04
-last: 2023-10-29
 tags:
   - books
-  - anthropology
-  - non-fiction
+  - incubating
 ---
-#books 
-
-- **Author**: [[Benedict Anderson]]
-- **Genre**: #books 
-- **Status**: #incubating 
-- **Date Read**: 2023-10-29
-
-![alt text|180](https://images-na.ssl-images-amazon.com/images/I/61G-RcbzxNL._SL200_.jpg)
-
-# Synopsis
+## Synopsis
 
 
-# Reflection/Review
+## Reflection/Review
 
 
-# Developed Ideas
+## Developed Ideas
 
 
 
-# Highlights
+## Highlights
 
 - [[A nation is an imagined, political community and imagined as both inherently limited and sovereign]]
 - [[Nationalism manifests itself in the cultural systems that preceded it]]

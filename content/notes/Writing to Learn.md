@@ -13,13 +13,9 @@ rating: 7
 created: 2024-03-14
 tags:
   - books
+  - incubating
 pu:
 ---
-- **Author**: [[William Zinsser]]
-- **Genre**: #books #books
-- **Status**: #incubating 
-- **Date Read**: 2024-03-14
-
 ## Synopsis
 
 This book talks about the importance of writing as a form of learning. 

@@ -6,6 +6,7 @@ up:
 related:
   - "[[Identity and Access Management]]"
   - "[[AWS Directory Service]]"
+created: 2023-12-01
 ---
 ## Overview
 
