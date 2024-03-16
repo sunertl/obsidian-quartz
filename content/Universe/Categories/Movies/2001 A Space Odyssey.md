@@ -16,7 +16,7 @@ year: 1968
 imdbId: tt0062622
 last: 2023-09-17
 tags:
-  - movies/sci-fi
+  - movies
 ---
 ## Synopsis
 After uncovering a mysterious artifact buried beneath the Lunar surface, a spacecraft is sent to Jupiter to find its origins - a spacecraft manned by two men and the supercomputer H.A.L. 9000.

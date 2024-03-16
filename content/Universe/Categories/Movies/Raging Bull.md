@@ -17,7 +17,7 @@ tags:
   - movies
   - movies
 ---
-#movies/drama  #movies/to-watch
+#movies  #movies
 
 ## Synopsis
 

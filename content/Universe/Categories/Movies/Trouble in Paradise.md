@@ -19,7 +19,7 @@ imdbId: tt0023622
 tags:
   - movies
   - movies
-  - movies/precode
+  - movies
 ---
 ## Synopsis
 

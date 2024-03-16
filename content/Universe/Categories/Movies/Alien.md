@@ -14,7 +14,7 @@ length: 137 min
 year: 1986
 last: 2023-09-17
 tags:
-  - movies/sci-fi
+  - movies
 ---
 
 

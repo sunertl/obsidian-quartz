@@ -16,7 +16,7 @@ year: 1974
 length: 155 min
 last: 2023-09-17
 tags:
-  - movies/drama
+  - movies
 ---
 ## Synopsis
 Although wife and mother Mabel is loved by her husband Nick, her mental illness places a strain on the marriage.

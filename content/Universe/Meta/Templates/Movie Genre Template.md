@@ -1,6 +1,6 @@
 ---
 tags:
-  - movies/genres
+  - movies
 ---
 
 ```dataview

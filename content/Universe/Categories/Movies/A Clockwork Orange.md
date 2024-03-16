@@ -16,7 +16,7 @@ length: 136 min
 year: 1971
 last: 2024-01-01
 tags:
-  - movies/sci-fi
+  - movies
 ---
 ## Synopsis
 
