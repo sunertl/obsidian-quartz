@@ -5,7 +5,7 @@ scoreImdb: 7.6
 length: 134 min
 ---
 
-category:: [[Movies]]
+category:: [[content/Universe/Categories/Movies]]
 director:: [[David Lynch]]
 genre:: [[Mystery]], [[Thriller]]
 year:: 1997

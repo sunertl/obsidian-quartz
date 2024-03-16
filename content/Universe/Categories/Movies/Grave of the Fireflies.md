@@ -5,7 +5,7 @@ scoreImdb: 8.5
 length: 89 min
 ---
 
-category:: [[Movies]]
+category:: [[content/Universe/Categories/Movies]]
 director:: [[Isao Takahata]]
 genre:: [[Animation]], [[Drama]], [[War]]
 year:: 1988

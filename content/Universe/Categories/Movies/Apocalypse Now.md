@@ -5,7 +5,7 @@ scoreImdb: 8.4
 length: 147 min
 ---
 
-category:: [[Movies]]
+category:: [[content/Universe/Categories/Movies]]
 director:: [[Francis Ford Coppola]]
 genre:: [[Drama]], [[Mystery]], [[War]]
 year:: 1979

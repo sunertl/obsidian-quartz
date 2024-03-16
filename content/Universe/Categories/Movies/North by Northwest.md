@@ -1,6 +1,6 @@
 ---
 category:
-  - "[[Movies]]"
+  - "[[content/Universe/Categories/Movies]]"
 poster: https://m.media-amazon.com/images/M/MV5BZDA3NDExMTUtMDlhOC00MmQ5LWExZGUtYmI1NGVlZWI4OWNiXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg
 genre:
   - "[[Action]]"

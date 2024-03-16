@@ -5,7 +5,7 @@ scoreImdb: 8.0
 length: 94 min
 ---
 
-category:: [[Movies]]
+category:: [[content/Universe/Categories/Movies]]
 director:: [[Terry Jones]]
 genre:: [[Comedy]]
 year:: 1979

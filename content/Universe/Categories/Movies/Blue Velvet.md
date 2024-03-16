@@ -2,7 +2,7 @@
 imdbId: tt0090756
 length: 120 min
 category:
-  - "[[Movies]]"
+  - "[[content/Universe/Categories/Movies]]"
 cover: https://m.media-amazon.com/images/M/MV5BMzExOTczNTgtN2Q1Yy00MmI1LWE0NjgtNmIwMzdmZGNlODU1XkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_SX300.jpg
 genre:
   - "[[Crime]]"

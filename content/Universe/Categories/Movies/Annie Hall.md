@@ -5,7 +5,7 @@ scoreImdb: 8.0
 length: 93 min
 ---
 
-category:: [[Movies]]
+category:: [[content/Universe/Categories/Movies]]
 director:: [[Woody Allen]]
 genre:: [[Comedy]], [[Romance]]
 year:: 1977

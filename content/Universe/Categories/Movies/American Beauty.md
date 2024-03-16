@@ -1,6 +1,6 @@
 ---
 category:
-  - "[[Movies]]"
+  - "[[content/Universe/Categories/Movies]]"
 cover: https://upload.wikimedia.org/wikipedia/en/9/9a/American_Beauty_1999_film_poster.jpg
 genre:
   - "[[Drama]]"

@@ -1,6 +1,6 @@
 ---
 category:
-  - "[[Movies]]"
+  - "[[content/Universe/Categories/Movies]]"
 cover: https://m.media-amazon.com/images/M/MV5BMTY3MjM1Mzc4N15BMl5BanBnXkFtZTgwODM0NzAxMDE@._V1_SX300.jpg
 genre:
   - "[[Crime]]"

@@ -5,7 +5,7 @@ scoreImdb: 7.7
 length: 94 min
 ---
 
-category:: [[Movies]]
+category:: [[content/Universe/Categories/Movies]]
 director:: [[Terrence Malick]]
 genre:: [[Action]], [[Crime]], [[Drama]]
 year:: 1973

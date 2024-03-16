@@ -5,7 +5,7 @@ scoreImdb: 7.9
 length: 109 min
 ---
 
-category:: [[Movies]]
+category:: [[content/Universe/Categories/Movies]]
 director:: [[Alfonso Cuarón]]
 genre:: [[Action]], [[Drama]], [[Sci-Fi]]
 year:: 2006

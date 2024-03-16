@@ -5,7 +5,7 @@ scoreImdb: 7.4
 length: 106 min
 ---
 
-category:: [[Movies]]
+category:: [[content/Universe/Categories/Movies]]
 director:: [[King Vidor]]
 genre:: [[Drama]], [[Romance]]
 year:: 1937

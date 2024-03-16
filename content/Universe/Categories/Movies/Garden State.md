@@ -1,6 +1,6 @@
 ---
 category:
-  - "[[Movies]]"
+  - "[[content/Universe/Categories/Movies]]"
 cover: https://upload.wikimedia.org/wikipedia/en/3/3c/Garden_State_Poster.jpg
 genre:
   - "[[Comedy]]"

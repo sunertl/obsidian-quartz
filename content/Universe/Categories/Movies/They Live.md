@@ -5,7 +5,7 @@ scoreImdb: 7.2
 length: 94 min
 ---
 
-category:: [[Movies]]
+category:: [[content/Universe/Categories/Movies]]
 director:: [[John Carpenter]]
 genre:: [[Action]], [[Horror]], [[Sci-Fi]]
 year:: 1988

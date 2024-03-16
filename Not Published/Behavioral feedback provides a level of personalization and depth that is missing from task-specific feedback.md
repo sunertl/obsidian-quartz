@@ -1,9 +1,9 @@
 ---
 created: 2023-10-07
 tags:
-  - notes/permanent
+  - evergreen
 ---
-#notes/permanent 
+#evergreen 
 
 vs [[Task-specific feedback focuses on the what rather than the who, so it feels less personal]]
 

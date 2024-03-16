@@ -5,7 +5,7 @@ scoreImdb: 6.8
 length: 180 min
 ---
 
-category:: [[Movies]]
+category:: [[content/Universe/Categories/Movies]]
 director:: [[David Lynch]]
 genre:: [[Drama]], [[Fantasy]], [[Mystery]]
 year:: 2006

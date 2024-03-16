@@ -1,6 +1,6 @@
 ---
 category:
-  - "[[Movies]]"
+  - "[[content/Universe/Categories/Movies]]"
 cover: https://m.media-amazon.com/images/M/MV5BMmNlYzRiNDctZWNhMi00MzI4LThkZTctMTUzMmZkMmFmNThmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg
 genre:
   - "[[Sci-Fi]]"

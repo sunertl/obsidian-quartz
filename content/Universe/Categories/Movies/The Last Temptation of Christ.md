@@ -5,7 +5,7 @@ scoreImdb: 7.5
 length: 164 min
 ---
 
-category:: [[Movies]]
+category:: [[content/Universe/Categories/Movies]]
 director:: [[Martin Scorsese]]
 genre:: [[Drama]]
 year:: 1988

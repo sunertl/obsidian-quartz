@@ -5,7 +5,7 @@ scoreImdb: 7.7
 length: 114 min
 ---
 
-category:: [[Movies]]
+category:: [[content/Universe/Categories/Movies]]
 director:: [[Martin McDonagh]]
 genre:: [[Comedy]], [[Drama]]
 year:: 2022

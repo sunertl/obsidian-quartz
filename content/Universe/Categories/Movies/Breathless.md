@@ -4,7 +4,7 @@ imdbId: tt0053472
 scoreImdb: 7.7
 length: 90 min
 category:
-  - "[[Movies]]"
+  - "[[content/Universe/Categories/Movies]]"
 cover: 
 genre:
   - "[[Crime]]"

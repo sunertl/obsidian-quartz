@@ -5,7 +5,7 @@ scoreImdb: 7.5
 length: 157 min
 ---
 
-category:: [[Movies]]
+category:: [[content/Universe/Categories/Movies]]
 director:: [[Ang Lee]]
 genre:: [[Drama]], [[node_modules/bytes/History]], [[Romance]]
 year:: 2007

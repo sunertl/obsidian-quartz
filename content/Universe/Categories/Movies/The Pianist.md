@@ -5,7 +5,7 @@ scoreImdb: 8.5
 length: 150 min
 ---
 
-category:: [[Movies]]
+category:: [[content/Universe/Categories/Movies]]
 director:: [[Roman Polanski]]
 genre:: [[Biography]], [[Drama]], [[Music]]
 year:: 2002

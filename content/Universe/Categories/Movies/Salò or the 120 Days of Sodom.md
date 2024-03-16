@@ -5,7 +5,7 @@ scoreImdb: 5.8
 length: 117 min
 ---
 
-category:: [[Movies]]
+category:: [[content/Universe/Categories/Movies]]
 director:: [[Pier Paolo Pasolini]]
 genre:: [[Drama]]
 year:: 1975

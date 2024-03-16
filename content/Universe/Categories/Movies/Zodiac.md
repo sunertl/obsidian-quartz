@@ -5,7 +5,7 @@ scoreImdb: 7.7
 length: 157 min
 ---
 
-category:: [[Movies]]
+category:: [[content/Universe/Categories/Movies]]
 director:: [[David Fincher]]
 genre:: [[Crime]], [[Drama]], [[Mystery]]
 year:: 2007

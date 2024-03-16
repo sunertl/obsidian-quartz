@@ -1,12 +1,12 @@
 ---
 created: 2023-10-07
 tags:
-  - notes/permanent
+  - evergreen
   - career/management
 related:
   - "[[1-1 Template]]"
 ---
-#career/management #notes/permanent 
+#career/management #evergreen 
 
 1:1 meetings should be focused on your report and what would help them be more successful, not on you and what you need.
 

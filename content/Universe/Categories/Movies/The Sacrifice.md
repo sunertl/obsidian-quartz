@@ -5,7 +5,7 @@ scoreImdb: 7.9
 length: 149 min
 ---
 
-category:: [[Movies]]
+category:: [[content/Universe/Categories/Movies]]
 director:: [[Andrei Tarkovsky]]
 genre:: [[Drama]]
 year:: 1986

@@ -1,6 +1,6 @@
 ---
 category:
-  - "[[Movies]]"
+  - "[[content/Universe/Categories/Movies]]"
 cover: https://upload.wikimedia.org/wikipedia/en/e/e7/Jurassic_Park_poster.jpg
 genre:
   - "[[Sci-Fi]]"

@@ -5,7 +5,7 @@ scoreImdb: 8.1
 length: 93 min
 ---
 
-category:: [[Movies]]
+category:: [[content/Universe/Categories/Movies]]
 director:: [[Carol Reed]]
 genre:: [[Film-Noir]], [[Mystery]], [[Thriller]]
 year:: 1949

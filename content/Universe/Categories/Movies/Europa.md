@@ -5,7 +5,7 @@ scoreImdb: 7.6
 length: 112 min
 ---
 
-category:: [[Movies]]
+category:: [[content/Universe/Categories/Movies]]
 director:: [[Lars von Trier]]
 genre:: [[Drama]], [[Thriller]]
 year:: 1991

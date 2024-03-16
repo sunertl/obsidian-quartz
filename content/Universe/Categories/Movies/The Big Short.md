@@ -5,7 +5,7 @@ scoreImdb: 7.8
 length: 130 min
 ---
 
-category:: [[Movies]]
+category:: [[content/Universe/Categories/Movies]]
 director:: [[Adam McKay]]
 genre:: [[Biography]], [[Comedy]], [[Drama]]
 year:: 2015

@@ -5,7 +5,7 @@ scoreImdb: 7.6
 length: 170 min
 ---
 
-category:: [[Movies]]
+category:: [[content/Universe/Categories/Movies]]
 director:: [[Terrence Malick]]
 genre:: [[Drama]], [[node_modules/bytes/History]], [[War]]
 year:: 1998

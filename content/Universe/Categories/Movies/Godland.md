@@ -5,7 +5,7 @@ scoreImdb: 7.2
 length: 143 min
 ---
 
-category:: [[Movies]]
+category:: [[content/Universe/Categories/Movies]]
 director:: [[Hlynur Pálmason]]
 genre:: [[Drama]]
 year:: 2022

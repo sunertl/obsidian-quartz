@@ -5,7 +5,7 @@ scoreImdb: 7.6
 length: 202 min
 ---
 
-category:: [[Movies]]
+category:: [[content/Universe/Categories/Movies]]
 director:: [[Chantal Akerman]]
 genre:: [[Drama]]
 year:: 1975

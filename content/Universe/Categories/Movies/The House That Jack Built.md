@@ -5,7 +5,7 @@ scoreImdb: 6.8
 length: 152 min
 ---
 
-category:: [[Movies]]
+category:: [[content/Universe/Categories/Movies]]
 director:: [[Lars von Trier]]
 genre:: [[Crime]], [[Drama]], [[Horror]]
 year:: 2018

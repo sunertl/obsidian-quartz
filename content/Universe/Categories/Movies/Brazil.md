@@ -5,7 +5,7 @@ scoreImdb: 7.9
 length: 132 min
 ---
 
-category:: [[Movies]]
+category:: [[content/Universe/Categories/Movies]]
 director:: [[Terry Gilliam]]
 genre:: [[Drama]], [[Sci-Fi]]
 year:: 1985

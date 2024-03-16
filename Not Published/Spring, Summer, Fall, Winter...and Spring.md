@@ -1,6 +1,6 @@
 ---
 category:
-  - "[[Movies]]"
+  - "[[content/Universe/Categories/Movies]]"
 cover: https://upload.wikimedia.org/wikipedia/en/4/40/SpringSummerFall.jpg
 genre:
   - "[[Drama]]"

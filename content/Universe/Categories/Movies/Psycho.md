@@ -5,7 +5,7 @@ scoreImdb: 8.5
 length: 109 min
 ---
 
-category:: [[Movies]]
+category:: [[content/Universe/Categories/Movies]]
 director:: [[Alfred Hitchcock]]
 genre:: [[Horror]], [[Mystery]], [[Thriller]]
 year:: 1960

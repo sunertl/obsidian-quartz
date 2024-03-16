@@ -5,7 +5,7 @@ scoreImdb: 7.1
 length: 135 min
 ---
 
-category:: [[Movies]]
+category:: [[content/Universe/Categories/Movies]]
 director:: [[Lars von Trier]]
 genre:: [[Drama]], [[Sci-Fi]]
 year:: 2011

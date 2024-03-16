@@ -5,7 +5,7 @@ scoreImdb: 8.6
 length: 130 min
 ---
 
-category:: [[Movies]]
+category:: [[content/Universe/Categories/Movies]]
 director:: [[Frank Capra]]
 genre:: [[Drama]], [[Family]], [[Fantasy]]
 year:: 1946

@@ -5,7 +5,7 @@ scoreImdb: 8.2
 length: 88 min
 ---
 
-category:: [[Movies]]
+category:: [[content/Universe/Categories/Movies]]
 director:: [[David Lynch]]
 genre:: [[Drama]], [[Mystery]], [[Thriller]]
 year:: 1999

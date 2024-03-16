@@ -5,7 +5,7 @@ scoreImdb: 8.2
 length: 105 min
 ---
 
-category:: [[Movies]]
+category:: [[content/Universe/Categories/Movies]]
 director:: [[Alfred Hitchcock]]
 genre:: [[Crime]], [[Thriller]]
 year:: 1954

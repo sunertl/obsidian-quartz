@@ -1,6 +1,6 @@
 ---
 category:
-  - "[[Movies]]"
+  - "[[content/Universe/Categories/Movies]]"
 cover: https://upload.wikimedia.org/wikipedia/commons/f/fa/Paths_of_Glory_%281957_poster%29.jpg
 genre:
   - "[[War]]"

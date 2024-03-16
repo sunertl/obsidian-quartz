@@ -3,7 +3,7 @@ imdbId: tt0080678
 scoreImdb: 8.2
 length: 124 min
 category:
-  - "[[Movies]]"
+  - "[[content/Universe/Categories/Movies]]"
 cover: https://m.media-amazon.com/images/M/MV5BMDVjNjIwOGItNDE3Ny00OThjLWE0NzQtZTU3YjMzZTZjMzhkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg
 genre:
   - "[[Biography]]"

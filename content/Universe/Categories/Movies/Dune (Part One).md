@@ -5,7 +5,7 @@ scoreImdb: 8.0
 length: 155 min
 ---
 
-category:: [[Movies]]
+category:: [[content/Universe/Categories/Movies]]
 director:: [[Denis Villeneuve]]
 genre:: [[Action]], [[Adventure]], [[Drama]]
 year:: 2021

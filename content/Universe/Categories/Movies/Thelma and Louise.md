@@ -5,7 +5,7 @@ scoreImdb: 7.5
 length: 130 min
 ---
 
-category:: [[Movies]]
+category:: [[content/Universe/Categories/Movies]]
 director:: [[Ridley Scott]]
 genre:: [[Adventure]], [[Crime]], [[Drama]]
 year:: 1991

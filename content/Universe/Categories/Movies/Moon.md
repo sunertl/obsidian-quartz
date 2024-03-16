@@ -1,6 +1,6 @@
 ---
 category:
-  - "[[Movies]]"
+  - "[[content/Universe/Categories/Movies]]"
 cover: https://upload.wikimedia.org/wikipedia/en/a/af/Moon_%282009_film%29.jpg
 genre:
   - "[[Sci-Fi]]"

@@ -1,9 +1,9 @@
 ---
 created: 2023-10-29
 tags:
-  - notes/permanent
+  - evergreen
 ---
-#notes/permanent #concepts/society 
+#evergreen #concepts/society 
 
 Newspapers created a 'spehere of influence' - reporting was over a confined space, and limits to the confined space were defined.
 

@@ -5,7 +5,7 @@ scoreImdb: 8.2
 length: 138 min
 ---
 
-category:: [[Movies]]
+category:: [[content/Universe/Categories/Movies]]
 director:: [[Curtis Hanson]]
 genre:: [[Crime]], [[Drama]], [[Mystery]]
 year:: 1997

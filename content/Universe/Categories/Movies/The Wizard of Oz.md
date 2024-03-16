@@ -5,7 +5,7 @@ scoreImdb: 8.1
 length: 102 min
 ---
 
-category:: [[Movies]]
+category:: [[content/Universe/Categories/Movies]]
 director:: [[Victor Fleming]], [[George Cukor]], [[Mervyn LeRoy]]
 genre:: [[Adventure]], [[Family]], [[Fantasy]]
 year:: 1939

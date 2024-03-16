@@ -5,7 +5,7 @@ scoreImdb: 7.6
 length: 111 min
 ---
 
-category:: [[Movies]]
+category:: [[content/Universe/Categories/Movies]]
 director:: [[Sean Baker]]
 genre:: [[Drama]]
 year:: 2017

@@ -5,7 +5,7 @@ scoreImdb: 8.0
 length: 141 min
 ---
 
-category:: [[Movies]]
+category:: [[content/Universe/Categories/Movies]]
 director:: [[Howard Hawks]]
 genre:: [[Drama]], [[Western]]
 year:: 1959

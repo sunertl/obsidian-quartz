@@ -5,7 +5,7 @@ scoreImdb: 8.2
 length: 130 min
 ---
 
-category:: [[Movies]]
+category:: [[content/Universe/Categories/Movies]]
 director:: [[Roman Polanski]]
 genre:: [[Drama]], [[Mystery]], [[Thriller]]
 year:: 1974

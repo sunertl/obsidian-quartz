@@ -5,7 +5,7 @@ scoreImdb: 8.7
 length: 566 min
 ---
 
-category:: [[Movies]]
+category:: [[content/Universe/Categories/Movies]]
 director:: [[Claude Lanzmann]]
 genre:: [[Documentary]], [[node_modules/bytes/History]], [[War]]
 year:: 1985

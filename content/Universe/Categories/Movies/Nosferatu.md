@@ -5,7 +5,7 @@ scoreImdb: 7.9
 length: 94 min
 ---
 
-category:: [[Movies]]
+category:: [[content/Universe/Categories/Movies]]
 director:: [[F.W. Murnau]]
 genre:: [[Fantasy]], [[Horror]]
 year:: 1922

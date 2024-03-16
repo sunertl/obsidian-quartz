@@ -5,7 +5,7 @@ scoreImdb: 8.3
 length: 128 min
 ---
 
-category:: [[Movies]]
+category:: [[content/Universe/Categories/Movies]]
 director:: [[Alfred Hitchcock]]
 genre:: [[Mystery]], [[Romance]], [[Thriller]]
 year:: 1958

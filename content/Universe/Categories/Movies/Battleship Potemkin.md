@@ -1,6 +1,6 @@
 ---
 category:
-  - "[[Movies]]"
+  - "[[content/Universe/Categories/Movies]]"
 cover: https://upload.wikimedia.org/wikipedia/commons/8/85/Vintage_Potemkin.jpg
 genre:
   - "[[Drama]]"

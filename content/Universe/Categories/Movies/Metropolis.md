@@ -5,7 +5,7 @@ scoreImdb: 8.3
 length: 153 min
 ---
 
-category:: [[Movies]]
+category:: [[content/Universe/Categories/Movies]]
 director:: [[Fritz Lang]]
 genre:: [[Drama]], [[Sci-Fi]]
 year:: 1927

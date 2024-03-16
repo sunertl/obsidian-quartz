@@ -1,6 +1,6 @@
 ---
 category:
-  - "[[Movies]]"
+  - "[[content/Universe/Categories/Movies]]"
 cover: https://upload.wikimedia.org/wikipedia/en/4/45/In_the_Mood_for_Love_movie.jpg
 genre:
   - "[[Romance]]"

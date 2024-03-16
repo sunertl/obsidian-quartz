@@ -1,6 +1,6 @@
 ---
 category:
-  - "[[Movies]]"
+  - "[[content/Universe/Categories/Movies]]"
 cover: https://m.media-amazon.com/images/M/MV5BOGJkY2EyOWYtYWRmNy00ZTEzLTllMDAtYzYzYjA0ZjFhZWJjXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_SX300.jpg
 genre:
   - "[[Adventure]]"
@@ -17,7 +17,6 @@ tags:
   - movies/sci-fi
 ---
 
-#movies/sci-fi 
 
 ## Synopsis
 The crew of a commercial spacecraft encounters a deadly lifeform after investigating a mysterious transmission of unknown origin.

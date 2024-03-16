@@ -5,7 +5,7 @@ scoreImdb: 7.7
 length: 163 min
 ---
 
-category:: [[Movies]]
+category:: [[content/Universe/Categories/Movies]]
 director:: [[Bernardo Bertolucci]]
 genre:: [[Biography]], [[Drama]], [[node_modules/bytes/History]]
 year:: 1987

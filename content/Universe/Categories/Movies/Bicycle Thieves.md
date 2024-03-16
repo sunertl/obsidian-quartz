@@ -4,7 +4,7 @@ imdbId: tt0040522
 scoreImdb: 8.3
 length: 89 min
 category:
-  - "[[Movies]]"
+  - "[[content/Universe/Categories/Movies]]"
 cover: 
 genre:
   - "[[Drama]]"

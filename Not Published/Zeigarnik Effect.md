@@ -2,9 +2,9 @@
 created: 2022-08-09
 tags:
   - concepts/mind
-  - notes/permanent
+  - evergreen
 ---
-#concepts/mind #notes/permanent 
+#concepts/mind #evergreen 
 
 An unfinished/interrupted task will be recalled more easily than a finished task. [^1] 
 

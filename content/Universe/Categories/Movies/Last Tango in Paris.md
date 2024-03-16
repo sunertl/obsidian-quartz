@@ -5,7 +5,7 @@ scoreImdb: 6.9
 length: 129 min
 ---
 
-category:: [[Movies]]
+category:: [[content/Universe/Categories/Movies]]
 director:: [[Bernardo Bertolucci]]
 genre:: [[Drama]], [[Romance]]
 year:: 1972

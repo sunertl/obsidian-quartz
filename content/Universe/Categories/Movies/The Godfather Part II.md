@@ -5,7 +5,7 @@ scoreImdb: 9.0
 length: 202 min
 ---
 
-category:: [[Movies]]
+category:: [[content/Universe/Categories/Movies]]
 director:: [[Francis Ford Coppola]]
 genre:: [[Crime]], [[Drama]]
 year:: 1974

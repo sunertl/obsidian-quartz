@@ -5,7 +5,7 @@ scoreImdb: 8.4
 length: 137 min
 ---
 
-category:: [[Movies]]
+category:: [[content/Universe/Categories/Movies]]
 director:: [[Florian Henckel von Donnersmarck]]
 genre:: [[Drama]], [[Mystery]], [[Thriller]]
 year:: 2006

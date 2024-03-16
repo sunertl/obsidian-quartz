@@ -5,7 +5,7 @@ scoreImdb: 7.8
 length: 95 min
 ---
 
-category:: [[Movies]]
+category:: [[content/Universe/Categories/Movies]]
 director:: [[Robert Bresson]]
 genre:: [[Drama]]
 year:: 1951

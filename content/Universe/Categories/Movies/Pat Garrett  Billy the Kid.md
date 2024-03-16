@@ -5,7 +5,7 @@ scoreImdb: 7.2
 length: 122 min
 ---
 
-category:: [[Movies]]
+category:: [[content/Universe/Categories/Movies]]
 director:: [[Sam Peckinpah]]
 genre:: [[Biography]], [[Drama]], [[Western]]
 year:: 1973

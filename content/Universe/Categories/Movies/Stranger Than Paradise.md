@@ -5,7 +5,7 @@ scoreImdb: 7.4
 length: 89 min
 ---
 
-category:: [[Movies]]
+category:: [[content/Universe/Categories/Movies]]
 director:: [[Jim Jarmusch]]
 genre:: [[Comedy]], [[Drama]]
 year:: 1984

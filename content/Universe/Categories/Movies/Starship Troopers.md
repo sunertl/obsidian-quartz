@@ -5,7 +5,7 @@ scoreImdb: 7.3
 length: 129 min
 ---
 
-category:: [[Movies]]
+category:: [[content/Universe/Categories/Movies]]
 director:: [[Paul Verhoeven]]
 genre:: [[Action]], [[Adventure]], [[Sci-Fi]]
 year:: 1997

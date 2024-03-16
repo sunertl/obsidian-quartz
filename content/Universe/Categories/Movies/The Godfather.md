@@ -5,7 +5,7 @@ scoreImdb: 9.2
 length: 175 min
 ---
 
-category:: [[Movies]]
+category:: [[content/Universe/Categories/Movies]]
 director:: [[Francis Ford Coppola]]
 genre:: [[Crime]], [[Drama]]
 year:: 1972

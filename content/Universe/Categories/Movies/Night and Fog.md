@@ -5,7 +5,7 @@ scoreImdb: 8.6
 length: 32 min
 ---
 
-category:: [[Movies]]
+category:: [[content/Universe/Categories/Movies]]
 director:: [[Alain Resnais]]
 genre:: [[Documentary]], [[Short]], [[node_modules/bytes/History]]
 year:: 1956

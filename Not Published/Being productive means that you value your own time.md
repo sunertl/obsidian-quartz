@@ -1,5 +1,5 @@
 ---
 tags:
-  - notes/permanent
+  - evergreen
 ---
-#notes/permanent 
+#evergreen 

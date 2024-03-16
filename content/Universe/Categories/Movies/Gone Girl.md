@@ -5,7 +5,7 @@ scoreImdb: 8.1
 length: 149 min
 ---
 
-category:: [[Movies]]
+category:: [[content/Universe/Categories/Movies]]
 director:: [[David Fincher]]
 genre:: [[Drama]], [[Mystery]], [[Thriller]]
 year:: 2014

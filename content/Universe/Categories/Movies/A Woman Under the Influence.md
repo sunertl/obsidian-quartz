@@ -1,6 +1,6 @@
 ---
 category:
-  - "[[Movies]]"
+  - "[[content/Universe/Categories/Movies]]"
 cover: https://m.media-amazon.com/images/M/MV5BODQyMWUyNDEtODZlNS00YTk3LWJlMDAtMGQ0ODZjMDZjMjhmXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_SX300.jpg
 genre:
   - "[[Drama]]"

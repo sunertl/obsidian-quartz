@@ -5,7 +5,7 @@ scoreImdb: 8.0
 length: 125 min
 ---
 
-category:: [[Movies]]
+category:: [[content/Universe/Categories/Movies]]
 director:: [[Andrei Tarkovsky]]
 genre:: [[Drama]]
 year:: 1983

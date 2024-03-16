@@ -5,7 +5,7 @@ tags:
 related:
   - "[[The act of writing everything down is the deliberate practice of becoming better at what we are doing]]"
 ---
-#notes/permanent 
+#evergreen 
 
 ___
 [[The act of writing everything down is the deliberate practice of becoming better at what we are doing]]

@@ -5,7 +5,7 @@ scoreImdb: 8.6
 length: 118 min
 ---
 
-category:: [[Movies]]
+category:: [[content/Universe/Categories/Movies]]
 director:: [[Jonathan Demme]]
 genre:: [[Crime]], [[Drama]], [[Thriller]]
 year:: 1991

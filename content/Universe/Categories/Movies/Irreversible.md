@@ -5,7 +5,7 @@ scoreImdb: 7.3
 length: 97 min
 ---
 
-category:: [[Movies]]
+category:: [[content/Universe/Categories/Movies]]
 director:: [[Gaspar Noé]]
 genre:: [[Crime]], [[Drama]], [[Mystery]]
 year:: 2002

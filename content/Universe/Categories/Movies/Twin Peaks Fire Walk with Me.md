@@ -5,7 +5,7 @@ scoreImdb: 7.2
 length: 134 min
 ---
 
-category:: [[Movies]]
+category:: [[content/Universe/Categories/Movies]]
 director:: [[David Lynch]]
 genre:: [[Drama]], [[Horror]], [[Mystery]]
 year:: 1992

@@ -5,7 +5,7 @@ scoreImdb: 8.0
 length: 178 min
 ---
 
-category:: [[Movies]]
+category:: [[content/Universe/Categories/Movies]]
 director:: [[Lars von Trier]]
 genre:: [[Crime]], [[Drama]]
 year:: 2003

@@ -1,6 +1,6 @@
 ---
 category:
-  - "[[Movies]]"
+  - "[[content/Universe/Categories/Movies]]"
 cover: https://upload.wikimedia.org/wikipedia/en/e/eb/JAWS_Movie_poster.jpg
 genre:
   - "[[Thriller]]"

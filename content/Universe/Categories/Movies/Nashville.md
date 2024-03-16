@@ -5,7 +5,7 @@ scoreImdb: 7.6
 length: 160 min
 ---
 
-category:: [[Movies]]
+category:: [[content/Universe/Categories/Movies]]
 director:: [[Robert Altman]]
 genre:: [[Comedy]], [[Drama]], [[Music]]
 year:: 1975

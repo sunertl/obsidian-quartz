@@ -1,7 +1,7 @@
 ---
 tags:
-  - notes/permanent
+  - evergreen
   - philosophy/polphil/marxism
 ---
-#notes/permanent #philosophy/polphil/marxism 
+#evergreen #philosophy/polphil/marxism 
 

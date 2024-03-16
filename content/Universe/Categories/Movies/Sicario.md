@@ -5,7 +5,7 @@ scoreImdb: 7.6
 length: 121 min
 ---
 
-category:: [[Movies]]
+category:: [[content/Universe/Categories/Movies]]
 director:: [[Denis Villeneuve]]
 genre:: [[Action]], [[Crime]], [[Drama]]
 year:: 2015

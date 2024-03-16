@@ -5,7 +5,7 @@ scoreImdb: 8.2
 length: 88 min
 ---
 
-category:: [[Movies]]
+category:: [[content/Universe/Categories/Movies]]
 director:: [[Akira Kurosawa]]
 genre:: [[Crime]], [[Drama]], [[Mystery]]
 year:: 1950

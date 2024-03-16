@@ -5,7 +5,7 @@ scoreImdb: 8.4
 length: 120 min
 ---
 
-category:: [[Movies]]
+category:: [[content/Universe/Categories/Movies]]
 director:: [[Park Chan-wook]]
 genre:: [[Action]], [[Drama]], [[Mystery]]
 year:: 2003

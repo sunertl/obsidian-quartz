@@ -5,7 +5,7 @@ scoreImdb: 7.5
 length: 129 min
 ---
 
-category:: [[Movies]]
+category:: [[content/Universe/Categories/Movies]]
 director:: [[Park Chan-wook]]
 genre:: [[Crime]], [[Drama]], [[Thriller]]
 year:: 2002

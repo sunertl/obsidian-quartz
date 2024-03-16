@@ -5,7 +5,7 @@ scoreImdb: 8.2
 length: 136 min
 ---
 
-category:: [[Movies]]
+category:: [[content/Universe/Categories/Movies]]
 director:: [[Yasujirô Ozu]]
 genre:: [[Drama]]
 year:: 1953

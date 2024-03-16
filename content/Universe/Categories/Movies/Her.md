@@ -5,7 +5,7 @@ scoreImdb: 8.0
 length: 126 min
 ---
 
-category:: [[Movies]]
+category:: [[content/Universe/Categories/Movies]]
 director:: [[Spike Jonze]]
 genre:: [[Drama]], [[Romance]], [[Sci-Fi]]
 year:: 2013

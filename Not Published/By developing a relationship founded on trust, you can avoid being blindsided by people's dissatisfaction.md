@@ -1,10 +1,10 @@
 ---
 created: 2023-10-06
 tags:
-  - notes/permanent
+  - evergreen
   - career/management
 ---
-#notes/permanent #career/management 
+#evergreen #career/management 
 
 To foster a relationship of trust and care, the following statements need to be true:
 

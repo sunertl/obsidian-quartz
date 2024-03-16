@@ -5,7 +5,7 @@ scoreImdb: 8.3
 length: 119 min
 ---
 
-category:: [[Movies]]
+category:: [[content/Universe/Categories/Movies]]
 director:: [[Orson Welles]]
 genre:: [[Drama]], [[Mystery]]
 year:: 1941

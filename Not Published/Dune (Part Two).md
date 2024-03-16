@@ -1,6 +1,6 @@
 ---
 category:
-  - "[[Movies]]"
+  - "[[content/Universe/Categories/Movies]]"
 cover: https://upload.wikimedia.org/wikipedia/en/5/52/Dune_Part_Two_poster.jpeg
 genre:
   - "[[Sci-Fi]]"

@@ -1,6 +1,6 @@
 ---
 category:
-  - "[[Movies]]"
+  - "[[content/Universe/Categories/Movies]]"
 cover: https://upload.wikimedia.org/wikipedia/commons/3/3a/Ikiru_poster.jpg
 genre:
   - "[[Drama]]"

@@ -5,7 +5,7 @@ scoreImdb: 8.5
 length: 102 min
 ---
 
-category:: [[Movies]]
+category:: [[content/Universe/Categories/Movies]]
 director:: [[Michael Curtiz]]
 genre:: [[Drama]], [[Romance]], [[War]]
 year:: 1942

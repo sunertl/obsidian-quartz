@@ -5,7 +5,7 @@ scoreImdb: 8.3
 length: 99 min
 ---
 
-category:: [[Movies]]
+category:: [[content/Universe/Categories/Movies]]
 director:: [[Fritz Lang]]
 genre:: [[Crime]], [[Mystery]], [[Thriller]]
 year:: 1931

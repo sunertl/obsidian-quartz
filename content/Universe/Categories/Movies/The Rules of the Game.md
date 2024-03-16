@@ -5,7 +5,7 @@ scoreImdb: 7.9
 length: 110 min
 ---
 
-category:: [[Movies]]
+category:: [[content/Universe/Categories/Movies]]
 director:: [[Jean Renoir]]
 genre:: [[Comedy]], [[Drama]]
 year:: 1939

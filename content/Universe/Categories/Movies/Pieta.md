@@ -5,7 +5,7 @@ scoreImdb: 7.1
 length: 103 min
 ---
 
-category:: [[Movies]]
+category:: [[content/Universe/Categories/Movies]]
 director:: [[Kim Ki-duk]]
 genre:: [[Crime]], [[Drama]], [[Thriller]]
 year:: 2012

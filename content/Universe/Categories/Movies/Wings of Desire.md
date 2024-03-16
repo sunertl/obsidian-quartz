@@ -1,7 +1,7 @@
 ---
 length: 128 min
 category:
-  - "[[Movies]]"
+  - "[[content/Universe/Categories/Movies]]"
 poster: https://m.media-amazon.com/images/M/MV5BMzE0ZTljZWItMTE3Mi00ZmEzLTg0OTktYWQ5MGY3YTQzMjZmXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg
 genre:
   - "[[Drama]]"

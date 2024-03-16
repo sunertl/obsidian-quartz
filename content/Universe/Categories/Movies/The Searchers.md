@@ -5,7 +5,7 @@ scoreImdb: 7.9
 length: 119 min
 ---
 
-category:: [[Movies]]
+category:: [[content/Universe/Categories/Movies]]
 director:: [[John Ford]]
 genre:: [[Adventure]], [[Drama]], [[Western]]
 year:: 1956

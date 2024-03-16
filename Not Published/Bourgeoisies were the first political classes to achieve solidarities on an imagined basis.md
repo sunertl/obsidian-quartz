@@ -1,8 +1,8 @@
 ---
 created: 2023-10-29
 tags:
-  - notes/permanent
+  - evergreen
 related:
   - "[[Imagined Communities]]"
 ---
-#notes/permanent 
+#evergreen 

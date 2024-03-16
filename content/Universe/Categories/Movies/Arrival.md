@@ -4,7 +4,7 @@ imdbId: tt2543164
 scoreImdb: 7.9
 length: 116 min
 category:
-  - "[[Movies]]"
+  - "[[content/Universe/Categories/Movies]]"
 cover: 
 genre:
   - "[[Sci-Fi]]"

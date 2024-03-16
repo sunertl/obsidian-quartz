@@ -5,7 +5,7 @@ scoreImdb: 9.0
 length: 195 min
 ---
 
-category:: [[Movies]]
+category:: [[content/Universe/Categories/Movies]]
 director:: [[Steven Spielberg]]
 genre:: [[Biography]], [[Drama]], [[node_modules/bytes/History]]
 year:: 1993

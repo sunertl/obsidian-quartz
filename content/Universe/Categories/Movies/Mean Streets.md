@@ -5,7 +5,7 @@ scoreImdb: 7.2
 length: 112 min
 ---
 
-category:: [[Movies]]
+category:: [[content/Universe/Categories/Movies]]
 director:: [[Martin Scorsese]]
 genre:: [[Crime]], [[Drama]], [[Thriller]]
 year:: 1973

@@ -5,7 +5,7 @@ scoreImdb: 7.2
 length: 125 min
 ---
 
-category:: [[Movies]]
+category:: [[content/Universe/Categories/Movies]]
 director:: [[David Lynch]]
 genre:: [[Comedy]], [[Crime]], [[Drama]]
 year:: 1990
