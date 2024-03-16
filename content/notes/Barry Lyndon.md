@@ -16,9 +16,8 @@ rating: 10
 imdbId: tt0072684
 length: 185 min
 year: 1975
-last: 2023-11-28
+created: 2023-11-28
 tags:
-  - movies
   - movies
 ---
 ## Synopsis
