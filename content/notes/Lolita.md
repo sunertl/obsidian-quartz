@@ -15,17 +15,8 @@ created: 2023-11-25
 last: 2023-12-22
 tags:
   - books
-  - movies
-  - "#read"
 ---
-#books
 
-- **Author**: [[Vladimir Nabokov]]
-- **Genre**: #books 
-- **Status**: #incubating
-- **Date Read**: 2023-12-22
-
-![alt text|180](https://upload.wikimedia.org/wikipedia/commons/5/57/Lolita_1955.JPG)
 # Synopsis
 
 A French literature professor moves to New England and writes under the pseudonym Humbert Humbert. He describes his obsession with a 12-year-old 'nymphet', Dolores Haze, whom he kidnaps and sexually abuses after becoming her stepfather. 
@@ -34,7 +25,7 @@ Read more about the book [here](https://en.wikipedia.org/wiki/Lolita#Plot).
 
 # Reflection/Review
 
-I was conflicted whether I should publish notes about a book that has been so controversial. In my opinion, this book is a work of art. Obviously not because of its depiction of sexual abuse and rape, but how the book makes us side with the perpretator. 
+I was conflicted whether I should publish notes about a book that has been so controversial. In my opinion, this book is a work of art. Obviously not because of its depiction of sexual abuse and rape, but how the book makes us side with the perpetuator. 
 
 The way the main protagonist, Humbert Humbert, is portrayed in this book leaves the reader in a moral dilemma. 
 

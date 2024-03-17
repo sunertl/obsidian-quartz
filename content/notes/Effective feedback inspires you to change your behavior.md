@@ -2,10 +2,11 @@
 created: 2023-10-07
 tags:
   - notes
+  - incubating
 related:
   - "[[The Making of a Manager]]"
 ---
-#notes 
+
 
 ## Four most common ways to inspire a change in behavior
 

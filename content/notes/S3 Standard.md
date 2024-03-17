@@ -1,6 +1,8 @@
-links:: [[Amazon S3]] | [[Minimum Storage Duration]]
-tags:: [[AWS Storage]]  
-___
+---
+tags:
+  - docs
+---
+
 # Overview
 
 - Primarily used for storing your data that are frequently accessed

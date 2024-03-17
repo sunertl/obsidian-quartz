@@ -1,6 +1,7 @@
-⬆️ [[Amazon S3]]
-tags:: [[network]]
-___
+---
+tags:
+  - docs
+---
 
 # Website Hosting
 Here are the prerequisites for routing traffic to a website that is hosted in an Amazon S3 Bucket:

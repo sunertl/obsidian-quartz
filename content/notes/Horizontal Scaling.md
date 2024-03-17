@@ -1,3 +1,8 @@
+---
+tags:
+  - docs
+---
+
 # Overview
 
 - This paradigm spreads out your resources by putting them side by side rather than stacking your things on top of each other. 
@@ -24,5 +29,3 @@ Ensures that you have the right number of EC2 instances available to handle the 
 -   Uses smaller instances is less expensive.
 -   Allows for better granularity.
 
-___
-tags: [[aws/scaling]] [[AWS/efficency]]  

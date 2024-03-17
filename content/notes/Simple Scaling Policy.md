@@ -1,6 +1,7 @@
-links:: [[Auto Scaling]]
-tags:: [[aws/scaling]]  
-_____
+---
+tags:
+  - docs
+---
 
 # Overview
 - Automatically increases our decreases the current capacity of your auto scaling group based on a single scaling adjustment

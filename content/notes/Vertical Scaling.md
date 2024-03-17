@@ -1,3 +1,8 @@
+---
+tags:
+  - docs
+---
+
 # Overview
 
 - Usually only involves one server or just a single resource -> this is perfect for your monolithic or legacy applications that don't have a distributed architecture.

@@ -1,7 +1,7 @@
-links: [[Auto Scaling]]
-tags: [[Elasticity]] 
-
-_________________
+---
+tags:
+  - docs
+---
 
 # Overview
 

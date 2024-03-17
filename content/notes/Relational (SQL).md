@@ -1,4 +1,9 @@
--   Structured Query Language (SQL) is a feature of most RDS.
+---
+tags:
+  - docs
+---
+
+- Structured Query Language (SQL) is a feature of most RDS.
 -   Structure to the data known as a **schema**.
     -   Defined in advance.
     -   Defines names of things

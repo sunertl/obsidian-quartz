@@ -1,6 +1,8 @@
-[[EC2 Instance Purchasing Options]]
-Related to [[Capacity Reservations]]
-#docs 
+---
+tags:
+  - docs
+---
+
 
 ## Overview
 

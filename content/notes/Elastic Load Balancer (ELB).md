@@ -1,8 +1,13 @@
+---
+tags:
+  - docs
+---
+
 # Overview
 
->[!tl;dr]
+>[!Definition] Definition
 >Elastic Load Balancing (ELB) automatically distributes incoming application traffic across multiple targets and virtual appliances in one or more Availability Zones (AZs).
->
+
 
 # Fundamentals
 Using one server is risky because that server can have performance issues or be completely unavailable, thus bringing down an application.

@@ -1,3 +1,8 @@
+---
+tags:
+  - docs
+---
+
 # Overview
 
 A subnet is a range of IP addresses for your VPC and is attached to an [[Availability Zone]]

@@ -1,6 +1,7 @@
-links:: [[Amazon S3]] | [[Minimum Storage Duration]]
-tags:: [[AWS Storage]]  
-___
+---
+tags:
+  - docs
+---
 # Overview
 
 - Primarily used for storing infrequently accessed data but provides a way to rapidly retrieve the stored files

@@ -1,10 +1,14 @@
+---
+tags:
+  - docs
+---
+
 # Overview
 
-```ad-important
 
-When you launch a new EC2 instance, the EC2 service attempts to place the instance in such a way that all of your instances are spread out across underlying hardware to minimize correlated failures. You can use _placement groups_ to influence the placement of a group of _interdependent_ instances to meet the needs of your workload.
+>[!Important] Important
+>When you launch a new EC2 instance, the EC2 service attempts to place the instance in such a way that all of your instances are spread out across underlying hardware to minimize correlated failures. You can use _placement groups_ to influence the placement of a group of _interdependent_ instances to meet the needs of your workload.
 
-```
 
 Can provide low latency network performance and high network throughput which is helpful for multi application networks that require node-to-node communication.
 
@@ -57,7 +61,3 @@ This is perfect if your application requires minimal latency between the EC2 ins
 -   **7 instances per AZ is a hard limit**.
       Not supported for dedicated instances or hosts.
 - Use case: small number of critical instances that need to be kept separated from each other. Several mirrors of an application; different nodes of an application; etc.
-
-___
-tags: [[AWS/performance]] [[Latency]]  
-

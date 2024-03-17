@@ -1,3 +1,8 @@
+---
+tags:
+  - docs
+---
+
 **Amazon Machine Image (AMI)**
 - AMI contains the OS settings, and other applications that you will use in your server. 
 - AWS has many pre-built AMIs and custom AMIs are available on AWS Marketplace.

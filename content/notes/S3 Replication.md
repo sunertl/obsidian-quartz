@@ -1,7 +1,7 @@
-⬆️ [[Amazon S3]]
-tags:: [[AWS Storage]]
-___
-
+---
+tags:
+  - docs
+---
 # S3 Replication
 
 Enables automatic, asynchronous copying of objects across Amazon S3 buckets which means that buckets that are configured for object replication can be owned by the same AWS account or by different accounts. You can replicate objects to a single destination bucket or to multiple destination buckets. The destination buckets can be in different AWS Regions or within the same Region as the source bucket. 

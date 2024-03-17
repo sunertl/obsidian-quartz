@@ -1,3 +1,8 @@
+---
+tags:
+  - docs
+---
+
 # Overview
 - Primarily used for running third-party virtual appliances
 - Suitable for custom firewalls, deep packet inspection systems, intrusion detection & prevention systems and many other virtual appliances
@@ -7,5 +12,3 @@
 - You can use GWLB endpoints to exchange traffic across different VPC boundaries
 - The access is configured using the route tables of your VPC, instead of virtual IP addresses
 
-____
-tags:: [[AWS/efficency]]  

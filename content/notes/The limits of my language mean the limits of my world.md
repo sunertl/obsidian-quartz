@@ -8,6 +8,6 @@ tags:
 topics:
   - Linguistics
 ---
-#quotes 
+
 
 *-Ludwig Wittgenstein*

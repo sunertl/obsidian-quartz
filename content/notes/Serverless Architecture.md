@@ -2,7 +2,7 @@
 tags:
   - docs
 ---
-#docs 
+
 # Overview
 
 >[!definition]
@@ -68,8 +68,3 @@ This is applicable in [[AWS Edge Computing]] too. You can deploy a function on [
 - Automatically increases and decreases the compute and storage capacity of your database
 - Unlike RDS, there’s no need to downgrade your database instance if your demand decreases
 - Costs way less than a regular server-based database
-
-
-___
-# References
-[[AWS - Compute]]

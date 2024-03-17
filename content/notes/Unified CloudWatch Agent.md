@@ -1,7 +1,6 @@
 ---
 tags:
   - docs
-  - docs
 up:
   - "[[Amazon CloudWatch]]"
 related:

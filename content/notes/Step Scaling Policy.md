@@ -1,6 +1,7 @@
-inks: [[Auto Scaling]]
-tags:: [[aws/scaling]]  
-_____
+---
+tags:
+  - docs
+---
 # Overview
 
 - Automatically increases or decreases the current capacity of your Amazon EC2 Auto Scaling group based on a set of scaling adjustments, also known as step adjustments

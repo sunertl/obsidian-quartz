@@ -1,3 +1,8 @@
+---
+tags:
+  - docs
+---
+
 # Overview
 
 -   Local **block storage** attached to an instance.

@@ -1,6 +1,7 @@
-links:: [[EC2 Instance Purchasing Options]]
-tags:: [[AWS/instances]]
-____
+---
+tags:
+  - docs
+---
 # Overview
 
 - A flexible pricing model in AWS that helps you save on the usage of EC2, Fargate, Lambda

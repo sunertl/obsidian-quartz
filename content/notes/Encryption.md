@@ -2,9 +2,9 @@
 tags:
   - docs
 ---
-#docs 
 
->[!Definition]
+
+>[!Definition] Definition
 Encryption is the method by which information is converted into secret code that hides the information's true meaning.
 
 # Encryption Approaches

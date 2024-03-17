@@ -1,5 +1,9 @@
+---
+tags:
+  - docs
+---
 
->[!important]
+>[!important] Important
 >An EC2 instance starts with at least one ENI - elastic network interface. An instance may have ENIs in separate subnets, but everything must be within one AZ.
 
 When you launch an instance with [[Security Groups]], they are on the network interface and not the instance.

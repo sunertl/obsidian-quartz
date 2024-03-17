@@ -1,6 +1,7 @@
-links: [[Auto Scaling]]
-tags: [[aws/scaling]]  
-_____
+---
+tags:
+  - docs
+---
 # Overview
 
 - Automatically increases or decreases the current capacity of your Auto Scaling group based on a set schedule that you define

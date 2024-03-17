@@ -1,6 +1,8 @@
-Concepts of [[RPO - Recovery Point Objective 1]] and [[RTO - Recovery Time Objective 1]]
+---
+tags:
+  - docs
+---
 
-____
 
 # Overview
 First snap is full copy of the data used on the RDS volume. From then on, the snapshots are incremental and only store the change in data.
@@ -31,8 +33,7 @@ The only way to maintain backups is to create a final snapshot which will not ex
 	- Manually triggered by the user
 	- Retention of backups for as long as you want
 - When performing a restore, RDS creates a new RDS with a new endpoint address.
-- When restoring a manual snapshot, you are setting it to a single point in time. This influences the [[RPO - Recovery Point Objective 1]] value.
+- When restoring a manual snapshot, you are setting it to a single point in time. This influences the [[RPO - Recovery Point Objective]] value.
 - Automated backups are different, they allow any 5 minute point in time.
 - Backups are restored and transaction logs are replayed to bring DB to desired point in time.
-- Restores aren't fast, think about [[RTO - Recovery Time Objective 1]]
-- 
+- Restores aren't fast, think about [[RTO - Recovery Time Objective]]

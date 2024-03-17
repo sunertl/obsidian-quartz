@@ -1,13 +1,8 @@
-#books
-
-- **Author**: [[Nir Eyal]]
-- **Genre**: #books 
-- **Status**: #incubating 
-- **Date Read**:  
-
-![alt text|180](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.benbellabooks.com%2Fwp-content%2Fuploads%2Findistactable.jpg&f=1&nofb=1&ipt=a57718631f0760cd2a5460836ea29c0c115d626d1d47c910cb4601b700a3f3a1&ipo=images)
-
-
+---
+tags:
+  - books
+  - incubating
+---
 
 # Synopsis
 

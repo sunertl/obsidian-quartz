@@ -1,3 +1,8 @@
+---
+tags:
+  - docs
+---
+
 When you create a record, you choose a routing policy, which determines how Amazon Route 53 responds to queries:
 
 - **[[Simple Routing]] policy** – Use for a single resource that performs a given function for your domain, for example, a web server that serves content for the example.com website.
@@ -7,6 +12,3 @@ When you create a record, you choose a routing policy, which determines how Amaz
 - **[[Latency Routing]] policy** – Use when you have resources in multiple AWS Regions and you want to route traffic to the Region that provides the best latency with less round-trip time.
 - **[[Multi-Value Answer Routing]] policy** – Use when you want Route 53 to respond to DNS queries with up to eight healthy records selected at random.
 - **[[Weighted Routing]] policy** – Use to route traffic to multiple resources in proportions that you specify.
-
-___
-[[+ AWS]] [[network]] 

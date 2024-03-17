@@ -6,5 +6,3 @@ related:
   - "[[How to Take Smart Notes]]"
   - "[[Journaling is the deliberate act of mind-cleansing]]"
 ---
-
-#incubating 

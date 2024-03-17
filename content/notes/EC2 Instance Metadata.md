@@ -1,5 +1,6 @@
 ---
-tags: 
+tags:
+  - docs
 up:
   - "[[Amazon EC2]]"
 related:

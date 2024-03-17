@@ -1,3 +1,8 @@
+---
+tags:
+  - docs
+---
+
 # Overview
 
 - The lowest-cost storage class in Amazon S3.
@@ -19,6 +24,3 @@
 ## Bulk
 - Costs lower than the Standard retrieval option
 - Data will be restored within 48 hours
-
-___
-tags:: [[AWS Storage]] 

@@ -1,3 +1,8 @@
+---
+tags:
+  - docs
+---
+
 # Overview
 
 An Internet Gateway (IGW) is a logical connection between an [[Amazon VPC]] and the Internet. It is _not_ a physical device. Only one can be associated with each VPC. It does _not_ limit the bandwidth of Internet connectivity. (The only limitation on bandwidth is the size of the Amazon EC2 instance, and it applies to all traffic — internal to the VPC and out to the Internet.)

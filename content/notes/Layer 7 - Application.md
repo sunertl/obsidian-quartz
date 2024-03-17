@@ -1,6 +1,6 @@
 ---
 tags:
-  - "#docs"
+  - docs
 up:
   - "[[OSI Model]]"
 ---

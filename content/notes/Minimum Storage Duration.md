@@ -1,3 +1,9 @@
+---
+tags:
+  - docs
+---
+
+
 Usually, [[S3 Glacier Flexible Retrieval]] is way more cost-effective than [[S3 Standard]]. However, there are scenarios where this is not applicable.
 
 Minimum Storage Duration = objects must be stored in a particular storage class for a specific amount of time. 

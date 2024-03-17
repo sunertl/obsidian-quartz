@@ -1,3 +1,8 @@
+---
+tags:
+  - docs
+---
+
 # Overview
 
 - Automatically increases or decreases the current capacity of your Auto Scaling Group based on a target value for a specific metric
@@ -11,11 +16,8 @@
 - You can use the request count per target (ALBRequestCountPerTarget) metric of your Application Load Balancer as the metric type for your Target Tracking policy
 
 
-```ad-info
-
-With a target tracking scaling policy, you can increase or decrease the current capacity of the group based on a target value for a specific metric. This policy will help resolve the over-provisioning of your resources. The scaling policy adds or removes capacity as required to keep the metric at, or close to, the specified target value. In addition to keeping the metric close to the target value, a target tracking scaling policy also adjusts to changes in the metric due to a changing load pattern.
-
-```
+> [!Info] Info
+> With a target tracking scaling policy, you can increase or decrease the current capacity of the group based on a target value for a specific metric. This policy will help resolve the over-provisioning of your resources. The scaling policy adds or removes capacity as required to keep the metric at, or close to, the specified target value. In addition to keeping the metric close to the target value, a target tracking scaling policy also adjusts to changes in the metric due to a changing load pattern.
 
 
 # Pre-Defined Metrics
@@ -24,8 +26,3 @@ With a target tracking scaling policy, you can increase or decrease the current 
 - **ASGAverageNetworkIn**    –   Average   number   of   bytes   received   on   all   network  interfaces   by   the   Auto Scaling   group.
 - **ASGAverageNetworkOut**    –   Average   number   of   bytes   sent   out   on   all   network  interfaces   by   the   Auto Scaling   group.
 - **ALBRequestCountPerTarget**    –   If   the   auto   scaling   group  i s   associated   with   an   ALB   target   group,   this  i s the   number   of   requests   completed   per   target  in   the   target   group.
-
-
-
-____
-tags:: [[aws/scaling 

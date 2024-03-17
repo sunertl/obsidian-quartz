@@ -1,5 +1,7 @@
-⬆️ [[AWS - Compute]] | [[Containerization]] | [[Containers]] | [[Docker]]
-
+---
+tags:
+  - docs
+---
 # Overview
 
 - [[Amazon Elastic Container Service (ECS)]]

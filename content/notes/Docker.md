@@ -2,8 +2,6 @@
 tags:
   - "#docs"
 ---
-#docs 
-
 ## Overview
 
 - Docker is a software development platform to deploy apps

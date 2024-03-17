@@ -1,3 +1,8 @@
+---
+tags:
+  - docs
+---
+
 If the read/write can be handled by EBS, that should be default.
 
 When to use [[Elastic Block Store (EBS)]]

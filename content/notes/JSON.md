@@ -1,4 +1,7 @@
-#docs
+---
+tags:
+  - docs
+---
 
 ## Overview
 

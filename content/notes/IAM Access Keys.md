@@ -1,3 +1,8 @@
+---
+tags:
+  - docs
+---
+
 # IAM Access Keys
 - one part of long-term credentials
 - user and password can be used when you log in to the GUI

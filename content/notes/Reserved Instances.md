@@ -1,7 +1,8 @@
-⬆️ [[EC2 Instance Purchasing Options]]
- tags:: [[AWS/instances]] 
+---
+tags:
+  - docs
+---
 
-_____
 
 # Overview
 
@@ -14,13 +15,9 @@ _____
 - Running non-interruptible workloads for a one-year or three year time frame
 - Scheduled Reserved Instances are a good choice for workloads that do not run continuously, but do run on a regular schedule
 
-```ad-example
 
-For example, you can use Scheduled Instances for an application that runs during business hours or for batch processing that runs at the end of the week.
-
-```
-
-
+> [!Example] Example
+> For example, you can use Scheduled Instances for an application that runs during business hours or for batch processing that runs at the end of the week.
 
  
 - Workloads with predictable capacity and uptime requirements

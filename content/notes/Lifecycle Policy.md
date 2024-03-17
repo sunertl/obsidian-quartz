@@ -1,3 +1,7 @@
+---
+tags:
+  - docs
+---
 
 Intelligent-Tiering is used for objects where access patterns is unknown. A lifecycle configuration is a set of **rules** that consists of **actions**.
 

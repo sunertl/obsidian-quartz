@@ -1,7 +1,7 @@
-links:: [[EC2 Networking]]
-tags:: [[network]] 
-
-_____
+---
+tags:
+  - docs
+---
 
 ## Overview
 

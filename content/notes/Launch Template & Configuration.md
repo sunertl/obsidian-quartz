@@ -1,3 +1,9 @@
+---
+tags:
+  - docs
+---
+
+
 # Overview
 They are documents which allow you to define the configuration of an EC2 instance in advance.
 

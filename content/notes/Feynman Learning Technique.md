@@ -4,7 +4,6 @@ category:
 tags:
   - concepts/learning
 ---
-#concepts/learning
 
 **There are four steps to the Feynman Learning Technique**, based on the method Richard Feynman originally used. We have adapted it slightly after reflecting on our own experiences using this process to learn. The steps are as follows:
 

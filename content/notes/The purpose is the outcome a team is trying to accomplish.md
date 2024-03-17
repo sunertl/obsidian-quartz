@@ -4,7 +4,7 @@ tags:
   - notes
   - career/management
 ---
-#notes #career/management 
+
 
 The Why - the outcome your team is trying to accomplish
 

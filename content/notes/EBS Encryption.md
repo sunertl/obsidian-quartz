@@ -1,3 +1,7 @@
+---
+tags:
+  - docs
+---
 # Overview
 
 When you don't have EBS encryption, the volume is not encrypted. The physical hardware itself may be performing at rest encryption, but that is a separate thing.

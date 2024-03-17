@@ -1,6 +1,7 @@
-links:: [[EC2 Instance Purchasing Options]]
-tags:: [[AWS/instances]]
-____
+---
+tags:
+  - docs
+---
 ## Overview
 
 - Derives from Spot Market - buying a product on the spot (for lower prices)

@@ -1,3 +1,8 @@
+---
+tags:
+  - docs
+---
+
 # Overview
 
 - For storing less frequently accessed and easily reproducible data that requires immediate retrieval when needed

@@ -1,3 +1,8 @@
+---
+tags:
+  - docs
+---
+
 # Overview
 
 - Instances accessible either via public internet or customer's own private network in AWS

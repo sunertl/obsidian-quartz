@@ -1,3 +1,8 @@
+---
+tags:
+  - docs
+---
+
 # Overview
 
 - you can attach multiple EBS volumes to an EC2 instance, under the condition that at least one volume is a Root EBS Volume.

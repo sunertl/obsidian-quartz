@@ -26,7 +26,3 @@
 - If your data will be accessed by users over variable periods of time
 - If you need storage with no management overhead
 - If you want to avoid lifecycle policies that are not consistently implemented or are partially implemented
-
-
-___
-tags:: [[AWS Storage]]  
