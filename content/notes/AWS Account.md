@@ -1,5 +1,7 @@
-[[Identity]]
-
+---
+tags:
+  - docs
+---
 # AWS Account
 
 >[!Definition]
@@ -20,5 +22,3 @@ ___
 
 [[AWS Organizations]]
 [[Identity]]
-
-#docs

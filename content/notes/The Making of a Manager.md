@@ -15,16 +15,8 @@ created: 2023-10-06
 last: 2023-10-06
 tags:
   - books
+  - incubating
 ---
-#books
-
-- **Author**:  [[Julie Zhuo]]
-- **Genre**: #books
-- **Status**: #incubating
-- **Date Read**: 2023-10-06
-
-![alt text|180](https://m.media-amazon.com/images/I/71wGJ14P4XL._SL1500_.jpg)
-
 ## Synopsis
 
 _The Making of a Manager_ is a modern field guide packed everyday examples and transformative insights, including:  
