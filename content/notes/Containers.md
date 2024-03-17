@@ -1,7 +1,10 @@
+---
+tags:
+  - docs
+---
 ## Conceptual Overview 
 [[Containerization]]
 
-To do:  https://pages.ubuntu.com/rs/066-EOV-335/images/WP_The_no-nonsense-way-to-accelerate-your-business-with_containers.pdf
 
 ## AWS Services
 

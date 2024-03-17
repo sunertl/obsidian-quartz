@@ -1,3 +1,7 @@
+---
+tags:
+  - docs
+---
 # Dedicated Host
 pay for a physical host that is fully dedicated to running your instances, and bring your existing per-socket, per-core, or per-VM software licenses to reduce costs
 type of [[Amazon EC2]] instance that runs in an [[Amazon VPC]] on hardware that’s dedicated to a single customer. This option is the most expensive pricing model.
@@ -42,11 +46,3 @@ Pay by the hour for instances that run on single-tenant hardware. Dedicated Inst
 | **Bring Your Own License**                       | Supported                                                                       | Not supported        |
 | **Instance must run within a VPC**               | Yes                                                                             | Yes                  |
 | **Can be combined with other billing options**   | On-Demand Dedicated Hosts, Reserved Dedicated Hosts, [[Savings Plans]]              | [[On-Demand Instances]], Reserved Dedicated Instances, Dedicated [[Spot Instances]]                     |
-
-
-
-
-____
-tags:: [[AWS/instances]] [[aws/network 
-
-

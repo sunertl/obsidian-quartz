@@ -1,6 +1,7 @@
-[[Amazon VPC]]
-#docs 
-
+---
+tags:
+  - docs
+---
 # Overview
 Classless inter-domain routing (CIDR) is a method for allocating IP addresses and IP routing. A collection of Internet Protocol (IP) standards is used to create unique identifiers for networks and individual devices. The IP addresses allow the transmission of unique packets of information to specific computers.
 

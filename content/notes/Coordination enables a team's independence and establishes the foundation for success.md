@@ -1,13 +1,10 @@
 ---
 created: 2023-10-06
 tags:
-  - career/management
   - notes
 related:
   - "[[The Making of a Manager]]"
 ---
-#notes  #career/management 
-
 Who should do what by when
 
 We need to establish common values within our team for how we make decisions and respond to problems.

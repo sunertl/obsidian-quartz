@@ -10,6 +10,8 @@ tags:
 - [[Extreme Ownership: How U.S. Navy SEALs Lead and Win]]
 - [[The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win]]
 - [[The Five Dysfunctions of a Team: A Leadership Fable]]
+- [[Writing That Works]]
+- [[Drive: The Surprising Truth About What Motivates Us]]
 
 ## Research highlights
 

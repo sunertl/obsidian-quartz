@@ -1,5 +1,7 @@
-#docs
-
+---
+tags:
+  - docs
+---
 >[!definition]
 >Operating system feature in which the kernel allows the existence of multiple isolated user-space instances. Those instances are called [[Containers]], partitions, virtual environments (VE) or jails. 
 

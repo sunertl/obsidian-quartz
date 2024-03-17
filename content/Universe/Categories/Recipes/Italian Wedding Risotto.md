@@ -1,6 +1,6 @@
 ---
 category:
-  - "[[Recipes]]"
+  - "[[content/Universe/Categories/Recipes/Recipes]]"
 cuisine:
   - Italian
 type:

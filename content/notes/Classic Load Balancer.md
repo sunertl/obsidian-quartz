@@ -1,7 +1,7 @@
-links:: [[ELB Types]] | [[Elastic Load Balancer (ELB)]]
-tags:: [[AWS/efficency]]  
-
-___
+---
+tags:
+  - docs
+---
 # Overview
 - Intended for legacy applications that are still using the EC2-Classic network
 - Not recommended for modern applications

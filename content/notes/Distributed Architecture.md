@@ -1,6 +1,7 @@
-[[AWS Application Integration]]
-#docs
-
+---
+tags:
+  - docs
+---
 
 >[!Important]
 >Composed of multiple components that run on different platforms. The components are decoupled from each other, so a failure in one module won't affect the other application modules significantly.

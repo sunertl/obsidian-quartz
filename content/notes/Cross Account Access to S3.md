@@ -2,11 +2,12 @@
 category:
   - "[[Categories/Projects]]"
 type:
-  - "[[content/notes/AWS]]"
+  - "[[AWS]]"
 start: 2023-11-14
 year: 2023
 tags:
   - projects
+  - docs
 url: 
 status: 
 related:
