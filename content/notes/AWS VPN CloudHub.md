@@ -1,7 +1,6 @@
 ---
 tags:
   - docs
-  - docs
 up:
   - "[[AWS Virtual Private Network (VPN)]]"
 related:
@@ -9,7 +8,7 @@ related:
   - "[[Amazon VPC]]"
 ---
 ## Overview
-___
+
 >[!summary] Summary
 >Provide secure communication between multiple sites, if you have multiple VPN connections. Low-cost hub-and-spoke model for primary or secondary network connectivity between different locations (VPN only)
 

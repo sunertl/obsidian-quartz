@@ -1,3 +1,7 @@
+---
+tags:
+  - docs
+---
 # AWS Organizations
 AWS Organizations is a product which allows larger businesses to manage multiple [[AWS Account|AWS accounts]] with little management oversight. Without Organizations, these accounts would have each their own pool of IAM users as well as separate payment methods. 
 

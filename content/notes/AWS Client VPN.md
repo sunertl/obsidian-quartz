@@ -1,7 +1,6 @@
 ---
 tags:
   - docs
-  - docs
 up:
   - "[[AWS Network & Content Delivery]]"
 related:
@@ -10,7 +9,7 @@ related:
   - "[[AWS Site-to-Site VPN]]"
 ---
 ## Overview
----
+
 >[!summary] Summary
 > Connect from your computer using [[OpenVPN]] to your private network in AWS and on-premises
 
@@ -20,7 +19,7 @@ related:
 ![[Pasted image 20231102191015.png]]
 
 ## Authentication Types
----
+
 ### Active Directory Authentication
 - Authenticate against Microsoft Active Directory (user-based)
 - AWS managed Microsoft AD or on-premises AD through AD connector

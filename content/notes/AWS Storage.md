@@ -1,8 +1,10 @@
 ---
 tags:
   - docs
-up: "[[content/notes/AWS]]"
-related: "[[AWS Analytics]]"
+up:
+  - "[[AWS]]"
+related:
+  - "[[AWS Analytics]]"
 ---
 
 

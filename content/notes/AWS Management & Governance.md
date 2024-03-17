@@ -1,7 +1,8 @@
-[[content/notes/AWS]]
-___
-Business agility and governance controls
-___
+---
+tags:
+  - docs
+---
+
 # [[Amazon CloudWatch]]
 Observability of your AWS resources and applications on AWS and on-premises
 

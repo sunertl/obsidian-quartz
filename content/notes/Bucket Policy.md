@@ -1,3 +1,7 @@
+---
+tags:
+  - docs
+---
 Is a [[Resource-Based Policy]]
 - Are used to grant permission to your Amazon S3 resources
 - They use JSON-based access policy language

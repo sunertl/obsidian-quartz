@@ -1,7 +1,7 @@
-[[EC2 Instance Purchasing Options]]
-Related to [[On-Demand Instances]]
-#docs  
-
+---
+tags:
+  - docs
+---
 ## Overview
 
 - Allows you to reserve EC2 capacity for a specific AZ for a period of time

@@ -1,12 +1,12 @@
+---
+tags:
+  - docs
+---
 # Overview
 
 
-```ad-definition
-
-AWS Step Functions is a low-code, visual workflow service that developers use to build distributed applications, automate IT and business processes, and build data and machine learning pipelines using AWS services. Workflows manage failures, retries, parallelization, service integrations, and observability so developers can focus on higher-value business logic.
-
-```
-
+> [!Definition] Definition
+> AWS Step Functions is a low-code, visual workflow service that developers use to build distributed applications, automate IT and business processes, and build data and machine learning pipelines using AWS services. Workflows manage failures, retries, parallelization, service integrations, and observability so developers can focus on higher-value business logic.
 
 There are some crucial [[AWS Lambda]] limitations:
 

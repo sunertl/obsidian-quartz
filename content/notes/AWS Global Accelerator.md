@@ -1,3 +1,7 @@
+---
+tags:
+  - docs
+---
 # Overview
 
 -   Move the AWS network closer to customers.

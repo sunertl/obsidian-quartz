@@ -1,7 +1,6 @@
 ---
 tags:
   - docs
-  - docs
 up:
   - "[[AWS - Compute]]"
 related:
