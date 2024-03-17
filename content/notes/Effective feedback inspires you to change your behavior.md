@@ -1,7 +1,7 @@
 ---
 created: 2023-10-07
 tags:
-  - notes
+  - incubating
   - incubating
 related:
   - "[[The Making of a Manager]]"

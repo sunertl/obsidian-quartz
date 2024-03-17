@@ -1,9 +1,9 @@
 ---
 created: 2023-10-06
 tags:
-  - notes
+  - incubating
 ---
-#notes 
+#incubating 
 
 It is the belief that a group of people can achieve more than a single person going it alone. You can stop doing everything by yourself, or even know everything by yourself. 
 

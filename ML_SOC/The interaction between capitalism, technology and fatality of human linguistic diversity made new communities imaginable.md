@@ -1,11 +1,11 @@
 ---
 created: 2023-10-29
 tags:
-  - notes
+  - incubating
 related:
   - "[[Imagined Communities]]"
 ---
-#notes 
+#incubating 
 
 fatality of human linguistic diversity = no way to unify mankind under one language - there can never be ONE language
 

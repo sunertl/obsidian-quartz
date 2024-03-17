@@ -1,9 +1,9 @@
 ---
 created: 2023-10-07
 tags:
-  - notes
+  - incubating
 ---
-#notes #career/management 
+#incubating #career/management 
 
 Make sure to address the following:
 

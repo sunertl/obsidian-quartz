@@ -1,7 +1,7 @@
 ---
 tags:
-  - notes
+  - incubating
   - philosophy/polphil/marxism
 related:
 ---
-#notes  #philosophy/polphil/marxism 
+#incubating  #philosophy/polphil/marxism 

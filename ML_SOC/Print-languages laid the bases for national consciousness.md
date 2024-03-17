@@ -1,12 +1,12 @@
 ---
 created: 2023-10-29
 tags:
-  - notes
+  - incubating
 related:
   - "[[Nation]]"
   - "[[Nationalism]]"
 ---
-#notes 
+#incubating 
 
 ## Main Reasons
 

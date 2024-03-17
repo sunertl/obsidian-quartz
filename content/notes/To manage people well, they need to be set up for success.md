@@ -2,7 +2,7 @@
 created: 2023-10-06
 tags:
   - quotes
-  - notes
+  - incubating
   - career/management
 ---
 

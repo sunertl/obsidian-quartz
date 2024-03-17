@@ -5,7 +5,7 @@ related:
   - "[[Nationalism]]"
   - "[[Nation]]"
 ---
-#notes 
+#incubating 
 
 ## The cultural systems are religious community and dynastic realm
 

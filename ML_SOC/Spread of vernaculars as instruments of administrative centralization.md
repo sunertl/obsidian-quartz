@@ -1,8 +1,8 @@
 ---
 created: 2023-10-29
 tags:
-  - notes
+  - incubating
 related:
   - "[[Imagined Communities]]"
 ---
-#notes 
+#incubating 
