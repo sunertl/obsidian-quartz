@@ -16,6 +16,7 @@ Below is an (almost) complete list of books I have read, am planning to read or 
 #### 2024
 
 - [[Writing to Learn]], Wiliam Zinsser
+- [[Extreme Ownership - How U.S. Navy SEALs Lead and Win]], Jocko Willink, Leif Babin
 
 #### 2023
 

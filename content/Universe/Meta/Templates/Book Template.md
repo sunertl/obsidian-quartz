@@ -10,21 +10,11 @@ isbn13:
 year: 
 rating: 
 topics: 
-created:
-  "{ date }": 
+created: 
 last: 
-via: ""
 tags:
   - books
 ---
-- **Author**: 
-- **Genre**: 
-- **Status**: 
-- **Date Read**:
-
-
-![alt text|180]`(image URL)`
-
 ## Synopsis
 
 

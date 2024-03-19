@@ -1,0 +1,1 @@
+An evergreen note is an idea that emerged from different sources (books, articles, etc.) or organically from my own thinking. It doesn't have to be something that I agree with, but is composable. 

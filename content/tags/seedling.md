@@ -1,0 +1,1 @@
+Notes with this tag have not yet been processed further downstream, are mostly initial thoughts on a new subject and need attention. All of these notes are ephemeral and will change significantly.
