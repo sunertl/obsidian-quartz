@@ -1,6 +1,8 @@
-#writings #incubating 
-
-
+---
+tags:
+  - writings
+  - incubating
+---
 ## Sources
 
 - [[How to Take Smart Notes]]
