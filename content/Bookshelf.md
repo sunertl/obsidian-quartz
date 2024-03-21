@@ -25,6 +25,8 @@ Below is an (almost) complete list of books I have read, am planning to read or 
 - [[Lolita]], Vladimir Nabokov
 - [[Indistractable]], Nir Eyal
 - [[How to Take Smart Notes]], Sönke Ahrens
+- Everything Flows, Vasily Grossman
+- Moneyball, Michael Lewis
 
 ### To Read
 

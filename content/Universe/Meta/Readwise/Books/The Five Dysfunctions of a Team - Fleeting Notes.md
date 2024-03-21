@@ -1,0 +1,4 @@
+## New highlights added March 21, 2024 at 9:39 AM
+- “Politics is when people choose their words and actions based on how they want others to react rather than based on what they really think.” ([Location 1204](https://readwise.io/to_kindle?action=open&asin=B006960LQW&location=1204))
+- “If we don’t trust one another, then we aren’t going to engage in open, constructive, ideological conflict. And we’ll just continue to preserve a sense of artificial harmony.” ([Location 1231](https://readwise.io/to_kindle?action=open&asin=B006960LQW&location=1231))
+- “Once we achieve clarity and buy-in, it is then that we have to hold each other accountable for what we sign up to do, for high standards of performance and behavior. And as simple as that sounds, most executives hate to do it, especially when it comes to a peer’s behavior, because they want to avoid interpersonal discomfort.” ([Location 1305](https://readwise.io/to_kindle?action=open&asin=B006960LQW&location=1305))

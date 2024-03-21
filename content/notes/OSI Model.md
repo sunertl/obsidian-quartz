@@ -6,8 +6,6 @@ up:
 related:
   - "[[1.0 Networking Fundamentals]]"
 ---
-#docs 
-
 ## Overview
 
 > [!Intro] Intro
