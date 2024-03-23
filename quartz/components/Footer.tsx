@@ -15,7 +15,7 @@ export default ((opts?: Options) => {
       <footer class={`${displayClass ?? ""}`}>
         <hr />
         <p>
-        Stefan Unertl © {year}- <a href="https://stefun.io/Disclaimer">CC BY-ND 4.0</a>
+        Stefan Unertl © {year} - <a href="https://stefun.io/Disclaimer">CC BY-ND 4.0</a>
         </p>
         <ul>
           {Object.entries(links).map(([text, link]) => (
