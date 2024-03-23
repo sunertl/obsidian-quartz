@@ -7,7 +7,7 @@ tags:
 
 [[AWS Web Application Firewall (WAF)#Rules]] are defined and included in a WEBACL which is associated to a cloud front distribution and deployed to the edge.
 
-[[AWS Shield#Advanced]] can then intercept traffic when it reaches the load balancer. Once the data reaches the VPC, it has been filtered at Layer 3, 4, and 7 already.
+[[AWS Shield#Advanced]] can then intercept traffic when it reaches the load balancer. Once the data reaches the VPC, it has been filtered at [[Layer 3 - Network]], [[Layer 4 - Transport]], and [[Layer 7 - Application]] already.
 
-Layer 7 filtering is only provided by WAF.
+[[Layer 7 - Application]] filtering is only provided by WAF.
 
