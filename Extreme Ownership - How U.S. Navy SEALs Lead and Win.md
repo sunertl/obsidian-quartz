@@ -35,31 +35,12 @@ Overall, the book was great, and I can see why it became so successful. I learne
 ## Developed Ideas
 
 - [[Taking full responsibility is an integral part of strong leadership]]
+- [[The alignment to and belief in the end goal of a project creates the basis for a team's success]]
+- [[Checking their ego and operating with a high degree of humility enables managers to improve and become better leaders]]
 - 
 
 
-
 ## Highlights
-
-### Other Quotes
-
-
-- A leader must find a way to become effective and drive high performance within his or her team in order to win. Whether in SEAL training, in combat on distant battlefields, in business, or in life: there are no bad teams, only bad leaders. ([Location 1058](https://readwise.io/to_kindle?action=open&asin=B0739PYQSS&location=1058))
-
-### Believe in the Mission Principle
-
-- In order to convince and inspire others to follow and accomplish a mission, a leader must be a true believer in the mission. ([Location 1240](https://readwise.io/to_kindle?action=open&asin=B0739PYQSS&location=1240))
-- If a leader does not believe, he or she will not take the risks required to overcome the inevitable challenges necessary to win. ([Location 1242](https://readwise.io/to_kindle?action=open&asin=B0739PYQSS&location=1242))
-- Leaders must always operate with the understanding that they are part of something greater than themselves and their own personal interests. They must impart this understanding to their teams down to the tactical-level operators on the ground. Far more important than training or equipment, a resolute belief in the mission is critical for any team or organization to win and achieve big results. ([Location 1243](https://readwise.io/to_kindle?action=open&asin=B0739PYQSS&location=1243))
-- In many cases, the leader must align his thoughts and vision to that of the mission. Once a leader believes in the mission, that belief shines through to those below and above in the chain of command. Actions and words reflect belief with a clear confidence and self-assuredness that is not possible when belief is in doubt. ([Location 1247](https://readwise.io/to_kindle?action=open&asin=B0739PYQSS&location=1247))
-- The challenge comes when that alignment isn’t explicitly clear. When a leader’s confidence breaks, those who are supposed to follow him or her see this and begin to question their own belief in the mission. ([Location 1249](https://readwise.io/to_kindle?action=open&asin=B0739PYQSS&location=1249))
-- Every leader must be able to detach from the immediate tactical mission and understand how it fits into strategic goals. When leaders receive an order that they themselves question and do not understand, they must ask the question: why? Why are we being asked to do this? Those leaders must take a step back, deconstruct the situation, analyze the strategic picture, and then come to a conclusion. If they cannot determine a satisfactory answer themselves, they must ask questions up the chain of command until they understand why. If frontline leaders and troops understand why, they can move forward, fully believing in what they are doing. ([Location 1251](https://readwise.io/to_kindle?action=open&asin=B0739PYQSS&location=1251))
-
-### Avoid Ego Principle
-
-- Ego clouds and disrupts everything: the planning process, the ability to take good advice, and the ability to accept constructive criticism. It can even stifle someone’s sense of self-preservation. Often, the most difficult ego to deal with is your own. ([Location 1580](https://readwise.io/to_kindle?action=open&asin=B0739PYQSS&location=1580))
-- But when ego clouds our judgment and prevents us from seeing the world as it is, then ego becomes destructive. When personal agendas become more important than the team and the overarching mission’s success, performance suffers and failure ensues. Many of the disruptive issues that arise within any team can be attributed directly to a problem with ego. ([Location 1584](https://readwise.io/to_kindle?action=open&asin=B0739PYQSS&location=1584))
-- Implementing Extreme Ownership requires checking your ego and operating with a high degree of humility. Admitting mistakes, taking ownership, and developing a plan to overcome challenges are integral to any successful team. Ego can prevent a leader from conducting an honest, realistic assessment of his or her own performance and the performance of the team. ([Location 1586](https://readwise.io/to_kindle?action=open&asin=B0739PYQSS&location=1586))
 
 ### Cover and Move Principle
 

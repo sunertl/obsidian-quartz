@@ -1,6 +1,6 @@
 ---
 category:
-  - "[[content/Universe/Categories/Recipes/Recipes]]"
+  - "[[content/Universe/Categories/Recipes/Recipes|Recipes]]"
 cuisine:
   - American
 type:

@@ -33,3 +33,8 @@ created: 2024-03-18
 	- [[One-on-one meetings are an effective way to make your colleague's voices heard]]
 	- [[Showing up authentically, builds better relationships with colleagues]]
 - [[Effective feedback inspires you to change your behavior]]
+
+### Extreme Ownership
+
+- [[Taking full responsibility is an integral part of strong leadership]]
+- 
