@@ -8,14 +8,9 @@ tags:
 
 ## AWS Services
 
-### Elastic Container Service (ECS)
-[[Amazon Elastic Container Service (ECS)]] accepts containers and instructions you provide.
-
-### Amazon Elastic Container Registry
-[[Amazon Elastic Container Registry (ECR)]] allows to easily store, manage, and deploy container images
+- [[Amazon Elastic Container Service (ECS)]]
+- [[Amazon Elastic Container Registry (ECR)]]
 
 ## Platform-as-a-Service
 ### Docker
 [[Docker]] is a set of platform as a service products that use OS-level virtualization to deliver software in packages called [[Containers]].
-
-

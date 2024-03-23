@@ -6,7 +6,6 @@ type:
 created: 2022-01-21
 tags:
   - docs
-  - maps
 title: AWS
 ---
 I initially used Obsidian as a tool with which I created my own, private, local- and offline-first wiki for all things AWS. I wrote the majority of my notes while studying for AWS exams. 
@@ -27,7 +26,7 @@ As a disclaimer, these are my personal notes. The official documentation from AW
 
 ## [[Containers]]
 
-## [[AWS - Database|Database]]
+## [[AWS Database|Database]]
 
 ## [[AWS Management & Governance|Management & Governance]]
 

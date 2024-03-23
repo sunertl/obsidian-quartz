@@ -2,7 +2,7 @@
 tags:
   - "#docs"
 up:
-  - "[[AWS - Database]]"
+  - "[[AWS Database]]"
 created: 2022-06-10
 ---
 ## Overview
