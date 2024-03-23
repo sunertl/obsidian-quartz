@@ -5,6 +5,7 @@ I’m Stefan. I work in IT security & compliance and I created this [[Networked 
 
 
 
+
 I created this site to share some of my (thousand?) notes I wrote over the last couple of years in [Obsidian](https://obsidian.md/) - a simple, yet powerful note-taking app based on [Markdown](https://en.wikipedia.org/wiki/Markdown).
 
 I extensively used Obsidian for various study projects - search for [[AWS]]
@@ -13,3 +14,6 @@ what I am currently working on:
 
 - [[Projects]]
 
+This type of website is often referred to as a *digital garden*, a place that consists of ideas that grow over time - it's a reflection of what one has been, done, and learnt.
+
+Welcome.
