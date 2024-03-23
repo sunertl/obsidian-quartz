@@ -34,7 +34,7 @@ Overall, the book was great, and I can see why it became so successful. I learne
 
 ## Developed Ideas
 
-To solve problem
+
 
 
 
