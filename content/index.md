@@ -10,3 +10,7 @@ While I tend to keep my notes all over the place and try to have them 'organized
 This type of website is often referred to as a *digital garden*, a place that consists of ideas that grow over time - it's a reflection of what one has been, done, and learnt.
 
 Welcome.
+
+
+___
+・[[about]] ・[[Projects|projects]]・ [[content/Wiki/index|wiki]]・[[evergreen]]
