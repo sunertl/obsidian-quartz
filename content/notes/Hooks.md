@@ -2,7 +2,7 @@
 tags:
   - docs
 ---
-# Overview
+## Overview
 
 - A function that gets executed automatically on a certain event
 - Provides the ability to influence the outcome of your workflow based on the criteria that you define

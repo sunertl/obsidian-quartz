@@ -2,10 +2,7 @@
 tags:
   - docs
 ---
-
-
-
-# Overview
+## Overview
 
 ![[Pasted image 20220823144245.png|300]]
 
@@ -13,13 +10,13 @@ Microservices are an architectural and organizational approach to software devel
 
 Microservices architectures make applications easier to scale and faster to develop, enabling innovation and accelerating time-to-market for new features.
 
-# Monolithic vs. Microservices Architecture
+## Monolithic vs. Microservices Architecture
 
 With monolithic architectures, all processes are tightly coupled and run as a single service. This means that if one process of the application experiences a spike in demand, the entire architecture must be scaled. Adding or improving a monolithic application’s features becomes more complex as the code base grows. This complexity limits experimentation and makes it difficult to implement new ideas. Monolithic architectures add risk for application availability because many dependent and tightly coupled processes increase the impact of a single process failure.
 
 With a microservices architecture, an application is built as independent components that run each application process as a service. These services communicate via a well-defined interface using lightweight APIs. Services are built for business capabilities and each service performs a single function. Because they are independently run, each service can be updated, deployed, and scaled to meet demand for specific functions of an application.
 
-# Characteristics of Microservices
+## Characteristics of Microservices
 
 ### Autonomous
 Each component service in a microservices architecture can be developed, deployed, operated, and scaled without affecting the functioning of other services. Services do not need to share any of their code or implementation with other services. Any communication between individual components happens via well-defined APIs.
@@ -27,7 +24,7 @@ Each component service in a microservices architecture can be developed, deploye
 ### Specialized
 Each service is designed for a set of capabilities and focuses on solving a specific problem. If developers contribute more code to a service over time and the service becomes complex, it can be broken into smaller services.
 
-# Benefits of Microservices
+## Benefits of Microservices
 
 
 ### Agility
@@ -53,9 +50,3 @@ Dividing software into small, well-defined modules enables teams to use function
 ### Resilience
 
 Service independence increases an application’s resistance to failure. In a monolithic architecture, if a single component fails, it can cause the entire application to fail. With microservices, applications handle total service failure by degrading functionality and not crashing the entire application.
-
-
-___
-
-# References
-https://aws.amazon.com/microservices/

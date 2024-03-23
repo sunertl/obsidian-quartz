@@ -2,7 +2,6 @@
 tags:
   - docs
 ---
-
 ## Overview
 
 - It is human readable and used for [[Data Serialization]]
