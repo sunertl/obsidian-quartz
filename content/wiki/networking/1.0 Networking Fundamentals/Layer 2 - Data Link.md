@@ -4,7 +4,7 @@ tags:
 up:
   - "[[OSI Model]]"
 related:
-  - "[[1.0 Networking Fundamentals]]"
+  - "[[content/wiki/networking/1.0 Networking Fundamentals/index]]"
 ---
 ## Overview
 

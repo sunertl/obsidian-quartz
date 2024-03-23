@@ -4,7 +4,7 @@ tags:
 category:
   - "[[Studying]]"
 related:
-  - "[[Network+]]"
+  - "[[content/wiki/networking/index]]"
 ---
 
 
