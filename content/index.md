@@ -12,3 +12,4 @@ I extensively used Obsidian for various study projects - search for [[AWS]]
 what I am currently working on:
 
 - [[Projects]]
+
