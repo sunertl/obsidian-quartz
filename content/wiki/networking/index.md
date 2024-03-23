@@ -34,7 +34,7 @@ Goal is to have the exam before my birthday - June 21, 2024
 
 ## Exam Objectives
 
-- [[content/Wiki/Networking/1.0 Networking Fundamentals/index|1.0 Networking Fundamentals]]
+- [[1.0 Networking Fundamentals]]
 - [[2.0 Network Implementations]]
 - [[3.0 Network Operations]]
 - [[4.0 Network Security]]

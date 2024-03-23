@@ -4,7 +4,7 @@ tags:
 up:
   - "[[1.1 Compare and contrast the Open Systems Interconnection (OSI) model layers and encapsulation concepts]]"
 related:
-  - "[[content/Wiki/Networking/1.0 Networking Fundamentals/index]]"
+  - "[[1.0 Networking Fundamentals]]"
 ---
 ## Overview
 
