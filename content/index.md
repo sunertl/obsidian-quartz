@@ -1,9 +1,7 @@
 ---
 title: Welcome
 ---
-I’m Stefan. I work in IT security/compliance and I am interested 
-
-Thanks for visiting my [digital garden](https://stefun.io/notes/A-digital-garden-consists-of-ideas-that-grow-over-time).
+I’m Stefan. I work in IT security & compliance and I created this [[Networked Thought|website]] to publish my notes on various subjects and interests. 
 
 I created this site to share some of my (thousand?) notes I wrote over the last couple of years in [Obsidian](https://obsidian.md/) - a simple, yet powerful note-taking app based on [Markdown](https://en.wikipedia.org/wiki/Markdown).
 

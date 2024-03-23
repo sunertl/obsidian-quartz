@@ -18,7 +18,7 @@ As a disclaimer, these are my personal notes. The official documentation from AW
 
 ## Products
 
-## [[AWS Analytics|Analytics]]
+## [[AWS Analytics|Analytics]] 
 
 ## [[AWS Application Integration|Application Integration]]
 

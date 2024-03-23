@@ -4,13 +4,11 @@ tags:
 related:
   - "[[AWS]]"
 ---
-# Analytics
+- # Analytics
 
-[[Amazon Redshift]] uses SQL to analyze structured and semi-structured data across data warehouses, operational databases, and data lakes, using AWS-designed hardware and machine learning to deliver the best price performance at any scale.
+![[Amazon Athena]]
 
-[[Amazon Athena]] is an interactive query service that makes it easy to analyze data in Amazon S3 using standard SQL. Athena is serverless, so there is no infrastructure to manage, and you pay only for the queries that you run.
-
-[[Amazon Kinesis]]
+- ![[Amazon Kinesis]]
 Amazon Kinesis makes it easy to collect, process, and analyze real-time, streaming data so you can get timely insights and react quickly to new information.
 
 [[Amazon EMR]]
