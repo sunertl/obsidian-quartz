@@ -6,6 +6,7 @@ type:
 created: 2022-01-21
 tags:
   - docs
+title: AWS
 ---
 I initially used Obsidian as a tool with which I created my own, private, local- and offline-first wiki for all things AWS. I wrote the majority of my notes while studying for AWS exams. 
 

@@ -2,7 +2,7 @@
 category:
   - "[[Categories/Projects]]"
 type:
-  - "[[content/notes/AWS]]"
+  - "[[content/wiki/aws/index]]"
 start: 2023-11-11
 year: 2023
 tags:

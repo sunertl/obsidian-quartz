@@ -2,7 +2,7 @@
 tags:
   - docs
 related:
-  - "[[AWS]]"
+  - "[[content/wiki/aws/index]]"
 ---
 # Analytics
 
