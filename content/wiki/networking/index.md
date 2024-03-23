@@ -1,6 +1,5 @@
 ---
 tags:
-  - studies
   - "#docs"
 related:
   - InfoSec
@@ -13,7 +12,7 @@ title: Network+
 ---
 ## Motivation
 
-I realized that I had a massive knowledge gap with networking concepts while studying for the [[AWS Security Speciality]] exam. Fascinated by InfoSec - wanted to get more exposure to basic InfoSec concepts - networking knowledge is absolute key for InfoSec.
+I realized that I had a massive knowledge gap with networking concepts while studying for the AWS Security Speciality exam. Fascinated by InfoSec - wanted to get more exposure to basic InfoSec concepts - networking knowledge is absolute key for InfoSec.
 
 ## Journey
 
