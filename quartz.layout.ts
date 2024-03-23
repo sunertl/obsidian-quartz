@@ -26,7 +26,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(),
   ],
   right: [
-    Component.DesktopOnly(Component.TableOfContents()),
+    Component.DesktopOnly(),
     Component.Backlinks(),
   ],
 }
