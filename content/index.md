@@ -1,9 +1,7 @@
 ---
 title: Welcome
 ---
-This is a test.
-
-I’m Stefan. I am an IT security professional and jaded social scientist.
+I’m Stefan. I work in IT security/compliance and I am interested 
 
 Thanks for visiting my [digital garden](https://stefun.io/notes/A-digital-garden-consists-of-ideas-that-grow-over-time).
 
