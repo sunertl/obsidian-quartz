@@ -62,11 +62,11 @@ const TagContent: QuartzComponent = (props: QuartzComponentProps) => {
 
             return (
               <div>
-                <h5>
+                <h3>
                   <a class="internal tag-link" href={`../tags/${tag}`}>
                     #{tag}
                   </a>
-                </h5>
+                </h3>
                 {content && <p>{content}</p>}
                 <div class="page-listing">
                   <p>
