@@ -4,7 +4,7 @@ tags:
 category:
   - "[[Studying]]"
 related:
-  - "[[content/wiki/networking/index]]"
+  - "[[content/Wiki/Networking/index]]"
 title: 1.0 Networking Fundamentals
 ---
 

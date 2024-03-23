@@ -2,7 +2,7 @@
 tags:
   - docs
 up:
-  - "[[content/wiki/aws/index]]"
+  - "[[content/Wiki/AWS/index]]"
 ---
 Application integration on AWS is a suite of services that enable communication between decoupled components within microservices, distributed systems, and serverless applications.
 
