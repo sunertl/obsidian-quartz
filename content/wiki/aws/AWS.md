@@ -23,7 +23,7 @@ As a disclaimer, these are my personal notes. The official documentation from AW
 
 ## [[AWS Application Integration|Application Integration]]
 
-## [[AWS - Compute|Compute]]
+## [[AWS Compute|Compute]]
 
 ## [[Containers]]
 

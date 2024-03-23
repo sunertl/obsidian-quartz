@@ -2,7 +2,7 @@
 tags:
   - docs
 up:
-  - "[[AWS - Compute]]"
+  - "[[AWS Compute]]"
 related:
   - "[[Containers]]"
   - "[[Containerization]]"

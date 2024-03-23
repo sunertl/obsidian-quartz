@@ -2,8 +2,8 @@
 tags:
   - docs
 up:
-  - "[[AWS - Compute]]"
-related:
+  - "[[AWS Compute]]"
+related: 
 ---
 # Overview
 
