@@ -2,7 +2,7 @@
 tags:
   - docs
 up:
-  - "[[AWS]]"
+  - "[[content/wiki/aws/index]]"
 related:
   - "[[AWS Security Speciality]]"
 ---

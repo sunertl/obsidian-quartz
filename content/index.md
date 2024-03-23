@@ -8,7 +8,7 @@ I’m Stefan. I work in IT security & compliance and I created this [[Networked 
 
 I created this site to share some of my (thousand?) notes I wrote over the last couple of years in [Obsidian](https://obsidian.md/) - a simple, yet powerful note-taking app based on [Markdown](https://en.wikipedia.org/wiki/Markdown).
 
-I extensively used Obsidian for various study projects - search for [[AWS]]
+I extensively used Obsidian for various study projects - search for [[content/wiki/aws/index]]
 
 what I am currently working on:
 
