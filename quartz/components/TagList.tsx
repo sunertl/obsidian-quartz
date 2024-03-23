@@ -29,21 +29,21 @@ TagList.css = `
 .tags {
   list-style: none;
   display: flex;
-  padding-left: 1;
+  padding-left: 0;
   gap: 0.4rem;
   margin: 1rem 0;
   flex-wrap: wrap;
-  justify-self: flex-end;
+  justify-self: start;
 }
 
 .section-li > .section > .tags {
-  justify-content: flex-end;
+  justify-content: start;
 }
   
 .tags > li {
   display: inline-block;
   white-space: nowrap;
-  margin: 1;
+  margin: 0;
   overflow-wrap: normal;
 }
 
