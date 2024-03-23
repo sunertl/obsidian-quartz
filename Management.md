@@ -37,4 +37,6 @@ created: 2024-03-18
 ### Extreme Ownership
 
 - [[Taking full responsibility is an integral part of strong leadership]]
+-  [[The alignment to and belief in the end goal of a project creates the basis for a team's success]]
+- [[Checking their ego and operating with a high degree of humility enables managers to improve and become better leaders]]
 - 
