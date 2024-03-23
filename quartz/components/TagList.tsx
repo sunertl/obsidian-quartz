@@ -29,7 +29,7 @@ TagList.css = `
 .tags {
   list-style: none;
   display: flex;
-  padding-left: 0;
+  padding-left: 1;
   gap: 0.4rem;
   margin: 1rem 0;
   flex-wrap: wrap;
@@ -43,7 +43,7 @@ TagList.css = `
 .tags > li {
   display: inline-block;
   white-space: nowrap;
-  margin: 0;
+  margin: 1;
   overflow-wrap: normal;
 }
 
